@@ -26,8 +26,8 @@ disqus_shortname: notanumber
 analytics: UA-42052947-1
 
 # Build settings
-# markdown: kramdown
-markdown: redcarpet
+markdown: kramdown
+# markdown: redcarpet
 theme: minima
 plugins:
   - jekyll-feed
