@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: NaN is not a number
+title: NaN
 email: hi@ponan.li
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi there!
+  NaN is not a number
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.ponan.li" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
