@@ -13,33 +13,33 @@ categories: [Matlab]
 
 已知圓球球面的公式是\
 
-```mathjax
+\\[
 R = \sqrt{ x^2 + y^2 + z^2}
-```
+\\]
 
-其中 `$ R $` 為一常數，是球面的半徑。
+其中 \\( R \\) 為一常數，是球面的半徑。
 
-現在我們將其推廣，把球面推廣成球體，則參數 `$ r $` 要滿足
+現在我們將其推廣，把球面推廣成球體，則參數  \\( r \\)  要滿足
 
-```mathjax
+\\[
 r \leq R
-```
+\\]
 其中
-```mathjax
+\\[
 r = \sqrt{ x^2 + y^2 + z^2 }
-```
+\\]
 
 所以要快速求出一個球體的質量投影，只要移項還有乘以2就好了，得到：
 
-```mathjax
+\\[
 P(x,y)  = 2\sqrt{ R^2 - x^2 - y^2 }
-```
+\\]
 
-不過記得要把超出 support `$ x^2 + y^2 < R $` 的地方手動設為零，不然可是會出現 complex 的。請直接參考下面的實作程式碼。
+不過記得要把超出 support \\( x^2 + y^2 < R \\) 的地方手動設為零，不然可是會出現 complex 的。請直接參考下面的實作程式碼。
 
 ## MATLAB 實作
 
-``` matlab sphere_proj.m
+{% highlight matlab %}
 function Z = sphere_proj(DIA)
 
 RAD = DIA/2; % radius
@@ -48,4 +48,4 @@ x = linspace(-RAD, RAD, DIA);
 R = sqrt( X.^2 + Y.^2);
 Z = 2 * sqrt( RAD^2 - R.^2 );
 Z( R > RAD) = 0;
-```
+{% endhighlight %}
