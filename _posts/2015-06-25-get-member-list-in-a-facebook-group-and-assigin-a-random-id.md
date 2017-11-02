@@ -9,15 +9,15 @@ categories: [ruby, facebook, OpenGraph, api]
 
 原先我的想法是按照賓客的長度創照一個連續自然數陣列，再利用 ruby 內建的 `shuffle` 洗牌，但是這樣名單印出來就是亂的。例如：
 
-``` ruby
+{% highlight ruby %}
 nums = 1..16
 nums = nums.to_a.shuffle
-```
+{% endhighlight %}
 
 後來想到一個更簡單的做法，就是直接把成員名單的順序打亂就好。實作如下：
 
-``` ruby list_members.rb
-# encoding=utf-8 
+{% highlight ruby %}
+# encoding=utf-8
 require 'open-uri'
 require 'json'
 
@@ -40,13 +40,14 @@ for t in nums
 	datum = data[t-1]
 	puts t.to_s + "\t" + datum["name"]
 end
-```
+{% endhighlight %}
 
 執行
-``` shell
+
+{% highlight shell %}
 ruby get_members.rb < token
-```
+{% endhighlight %}
+
 其中 `token` 放有你的 access token。
 
 如此就會印出洗牌過的成員名單，並加上一個照順序印出的編號了。
-	

@@ -14,8 +14,8 @@ categories: [ruby, facebook, OpenGraph, api]
 
 話不多說，來看 code：
 
-``` ruby list_attendees.rb 
-# encoding=utf-8 
+{% highlight ruby %}
+# encoding=utf-8
 require 'open-uri'
 require 'json'
 
@@ -32,12 +32,14 @@ data_hash = JSON.parse(json.read)
 data_hash["data"].each do |datum|
 	puts datum["name"]
 end
-```
+{% endhighlight %}
 
 執行
-``` shell
+
+{% highlight shell %}
 ruby list_attendees.rb < token > guests.csv
-```
+{% endhighlight %}
+
 即可
 
 其中 `< token` 是利用 standard input 將我放在另一個檔案的 token 吃進來； `> guests.csv` 就是把列印出來的內容存到csv檔裡面。
