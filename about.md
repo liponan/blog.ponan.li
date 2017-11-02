@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, Po-Nan Li here. Thank you for visiting my blog.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You might also want to check out my
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- [GitHub](https://github.com/leeneil "leeneil on GitHub")
+- [Homepage](http://ponan.li/ "ponan.li")
+- [Publications](http://blog.ponan.li/publications "Publications of Po-Nan Li")
 
+# About me
+Po-Nan is currently PhD candidate at Electrical Engineering, Stanford University. He specializes C/C++ and Matlab programming for scientific computation and X-ray imaging. His research interests include X-ray coherent imaging, biological computation and computational imaging.
 
-[jekyll-organization]: https://github.com/jekyll
+# Projects
+## Open sourced programs
+- GHIO-matlab
+- 2D-EEMD-mpi
+
+## Website
+- [清華大學校長模擬選舉](http://nthu-sim-vote.herokuapp.com/ "http://nthu-sim-vote.herokuapp.com/") (2013)
+- [Ultrafast Photonics Lab, National Tsing Hua University](http://robin.ipt.nthu.edu.tw/ "http://robin.ipt.nthu.edu.tw/") (2012)
+
+## Photography
+coming soon...
