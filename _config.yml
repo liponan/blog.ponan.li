@@ -22,6 +22,8 @@ url: "http://blog.ponan.li" # the base hostname & protocol for your site, e.g. h
 #twitter_username: jekyllrb
 permalink: 'post/:year/:month/:day/:title/'
 github_username:  leeneil
+disqus_shortname: nan
+analytics: UA-42052947-1
 
 # Build settings
 markdown: kramdown
