@@ -14,7 +14,7 @@ Besides here, you might also want to check out my
 
 ## About Po-Nan Li
 
-Born and raised in Taiwan, Po-Nan is currently PhD candidate at Electrical Engineering, Stanford University. He specializes C/C++ and Matlab programming for scientific computation and computational imaging. His research interests include X-ray and computational imaging, biological computation and machine learning. During 2016-2017, Po-Nan was Vice President of Stanford Taiwanese Student Association (STSA). He received his bachelor's and master's degrees from National Tsing Hua University, Taiwan in 2010 and 2012, respectively.
+Born and raised in Taiwan, Po-Nan is currently PhD candidate at Electrical Engineering, Stanford University. He specializes C/C++ and Matlab programming for scientific computation and computational imaging. His research interests include X-ray and computational imaging, biological computation and machine learning. During 2016-2017, Po-Nan was Vice President of Stanford Taiwanese Student Association [(STSA)](https://web.stanford.edu/group/stsa/home "Stanford Taiwanese Student Association (STSA)"). He received his bachelor's and master's degrees from National Tsing Hua University [(NTHU)](http://nthu-en.web.nthu.edu.tw/bin/home.php "National Tsing Hua University"), Taiwan in 2010 and 2012, respectively.
 
 ## Projects
 
