@@ -5,7 +5,7 @@ date: 2013-07-17 07:45
 comments: true
 categories: [每日一冷, trivia, dailycold, daily cold, 冷知識]
 ---
-![每日一冷：毛豆其實就黃豆](/assets/img/a5o9zPCR4m6iPqcugz0A_daily_cold0717.jpg)
+![每日一冷：毛豆其實就黃豆](/assets/img/2013/a5o9zPCR4m6iPqcugz0A_daily_cold0717.jpg)
 <!--more-->
 
 你可能知道台灣出口的毛豆世界馳名，尤其日本人非常喜歡吃台灣毛豆配啤酒喝；你可能也已經知道，黃豆其實就是大豆，或者說，黃豆和黑豆其實都是大豆的一種，大豆其實是一種泛稱。

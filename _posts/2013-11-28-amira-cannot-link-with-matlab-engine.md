@@ -33,7 +33,7 @@ C:\Program Files\MATLAB\R2012b\bin\win64
 # 解決方法
 解法非常簡單，就是改系統變數中的 `PATH`值。
 
-![PATH.PNG](/assets/img/5bwoTm5TLizV99vgvRhS_PATH.PNG)
+![PATH.PNG](/assets/img/2013/5bwoTm5TLizV99vgvRhS_PATH.PNG)
 首先對著 **我的電腦** 按右鍵，選 **內容** ，接著選 **進階系統設定** ，然後按 **進階** 這個頁籤，最後按最下面的按鈕 **環境變數** 。接著在下面的小框框中找到`PATH`，點選 **編輯**，然後在最後面加上
 ```
 ;C:\Program Files\MATLAB\R2012b\bin\win64

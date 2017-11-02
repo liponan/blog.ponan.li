@@ -10,7 +10,7 @@ categories: [ruby, facebook, OpenGraph, api]
 這種時候就只好動用 facebook 強大的 opengraph API了。opengraph 的 **EDGE** 除了可以是一個人，一個fan page之外，也可以是一個活動。
 
 取得 event 相關資訊前，要在申請 access token 前額外要求要 event 的權限：
-![螢幕截圖 2015-06-25 23.29.43.png](/assets/img/uIeto13SQnOiUehd8iQJ_%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-06-25%2023.29.43.png)
+![螢幕截圖 2015-06-25 23.29.43.png](/assets/img/2015/uIeto13SQnOiUehd8iQJ_%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-06-25%2023.29.43.png)
 
 話不多說，來看 code：
 

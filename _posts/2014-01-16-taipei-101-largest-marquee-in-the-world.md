@@ -6,7 +6,7 @@ comments: true
 categories: [50d, 曠時攝影]
 ---
 
-![_MG_0538.jpg](/assets/img/YcXL281URGCjSAJW1hhg__MG_0538.jpg)<!--more-->
+![_MG_0538.jpg](/assets/img/2014/YcXL281URGCjSAJW1hhg__MG_0538.jpg)<!--more-->
 ![time1.gif](http://m99.nthu.edu.tw/~s9966517/time1.gif)
 
 [time1.gif 原圖網址](http://m99.nthu.edu.tw/~s9966517/time1.gif "臺北101跑馬燈 gif")
@@ -21,7 +21,7 @@ categories: [50d, 曠時攝影]
 
 
 
-![_MG_1182.jpg](/assets/img/wdeV87e6RfWnXXEmi7WI__MG_1182.jpg)
+![_MG_1182.jpg](/assets/img/2014/wdeV87e6RfWnXXEmi7WI__MG_1182.jpg)
 ![time2.gif](http://m99.nthu.edu.tw/~s9966517/time2.gif)
 
 [time2.gif 原圖網址](http://m99.nthu.edu.tw/~s9966517/time2.gif "臺北101跑馬燈 gif")

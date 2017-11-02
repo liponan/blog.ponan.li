@@ -35,7 +35,7 @@ hold off;
 ```
 
 但是畫出來卻會變這樣：
-![fig1.png](/assets/img/BZdWSl6XSjaAeA6heoeC_fig1.png)
+![fig1.png](/assets/img/2013/BZdWSl6XSjaAeA6heoeC_fig1.png)
 
 囧！因為 limit 已經被第一個polar決定了，所以如果後面再`hold on`上去的圖案更大，就只能悲劇。
 <!--more-->
@@ -62,7 +62,7 @@ hold off;
 
 成果：
 
-![fig1a.png](/assets/img/wEsaqUCcSqaxsJxxvwo0_fig1a.png)
+![fig1a.png](/assets/img/2013/wEsaqUCcSqaxsJxxvwo0_fig1a.png)
 
 當然啦，其實也不一定要用自動的寫法，例如我覺得把 axis limit 設成 2 會比較好看，所以就可以直接寫成
 
@@ -71,6 +71,6 @@ h0 = polar(theta, 2 * ones(size(theta)));
 ```
 
 成果：
-![fig1b.png](/assets/img/WpSe3GpWRRSyMohhKE8E_fig1b.png)
+![fig1b.png](/assets/img/2013/WpSe3GpWRRSyMohhKE8E_fig1b.png)
 
 

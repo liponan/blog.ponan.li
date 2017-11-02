@@ -8,7 +8,7 @@ categories: [Häagen-Dazs, 每日一冷, daily cold, 冷知識, 美國, USA]
 >*本文同步刊登於[每日一冷](https://www.facebook.com/photo.php?fbid=521013937971014&set=a.413366638735745.91782.413364295402646&type=1 "你知道嗎？【來自美國的哈根大斯】")*
 
 尊貴又高價的Häagen-Dazs冰淇淋，是很多火鍋店或者吃到飽店當做賣點的法寶，也是許多人絕對不會錯過的「吃回本」重點目標。
-![daily_cold0821.jpg](/assets/img/kY9cNPk3QwWpVZiBeqE1_daily_cold0821.jpg)
+![daily_cold0821.jpg](/assets/img/2013/kY9cNPk3QwWpVZiBeqE1_daily_cold0821.jpg)
 
 不過你知道嗎？很多人望文生義，以為Häagen-Dazs是來自德國的冰淇淋，其實是大錯特錯！
 

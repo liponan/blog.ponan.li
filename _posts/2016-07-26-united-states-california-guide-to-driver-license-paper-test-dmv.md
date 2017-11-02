@@ -9,7 +9,7 @@ categories: [加州 駕照 筆試 DMV 樹懶 路考 美國 開車 汽車]
 
 已經通過筆試的朋友，可參考拙作[路考篇](http://blog.ponan.li/post/2016/07/26/united-states-california-guide-to-driver-license-behind-wheel-road-test-dmv "美國加州考照指南：路考篇")。
 
-![IMG_7777.JPG](/assets/img/vKeBPObeRdPOTMm3E4fw_IMG_7777.JPG)
+![IMG_7777.JPG](/assets/img/2016/vKeBPObeRdPOTMm3E4fw_IMG_7777.JPG)
 *DLPC 週末也有開，辦事效率也比較高*
 
 

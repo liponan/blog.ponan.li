@@ -13,7 +13,7 @@ POVRAY到底是什麼？官方的說法是：**Persistence of Vision Raytracer**
 
 POV可以做什麼呢？我們來看個範例：
 
-![t_spheres_spp_gaussian_2.png](/assets/img/2zPnV66vQD2SEehndUOv_t_spheres_spp_gaussian_2.png)
+![t_spheres_spp_gaussian_2.png](/assets/img/2013/2zPnV66vQD2SEehndUOv_t_spheres_spp_gaussian_2.png)
 為什麼一開始就做這麼奇怪的**範例**來練習呢？因為當時老闆從德國回來的時候，跟我說[這篇 Opitcs Express](http://www.opticsinfobase.org/oe/abstract.cfm?uri=oe-17-16-14235 "Analytic coherent control of plasmon propagation in nanostructures") 的圖是用 POVRAY 畫的，要我再現看看，也就是要我臨摹啦！
 
 過了兩天天之後，我畫出了這個東西：一個T字形的 nano-particle 陣列，一個激發的 Gaussian beam，還有正在傳播的 SPPs (surface plasmon polariton，表面電漿子)，此外還有兩個 detector 的位置標示。
@@ -21,7 +21,7 @@ POV可以做什麼呢？我們來看個範例：
 嗯，沒記錯的話我大概花了一晚摸出怎麼用 POVRAY，然後花了一天多一點點，把這張圖畫出來。
 而原圖則是長這樣：
 <!--more-->
-![oe2009.jpg](/assets/img/tANaqlkGSBuwriBZTRBe_oe2009.jpg)> Tuchscherer *et al*., Optics Express **17**, 14235 (2009).
+![oe2009.jpg](/assets/img/2013/tANaqlkGSBuwriBZTRBe_oe2009.jpg)> Tuchscherer *et al*., Optics Express **17**, 14235 (2009).
 
 如何？像吧？ 好啦我知道不像，不過至少我盡力了XD
 
@@ -33,7 +33,7 @@ POV可以做什麼呢？我們來看個範例：
 
 去年，我就一直在想，要如何推廣 POVRAY 這個好玩的東西。當然一方面，在實驗室內推廣其實滿有成果的，看下面這張大學部專題生學弟妹做的壁報，就知道絕對是青出於藍更勝於藍(不過這組其實不是我指導的，只是沾光一下XD)
 
-![386768_1707994877693_954504833_n.jpg](/assets/img/rKNPHcUFSu6hEeLgDltw_386768_1707994877693_954504833_n.jpg)
+![386768_1707994877693_954504833_n.jpg](/assets/img/2013/rKNPHcUFSu6hEeLgDltw_386768_1707994877693_954504833_n.jpg)
 不過一直以來我覺得 POVRAY 官方網站的教學文件雖然寫的很親民，但是還是需要一點程式基礎、也要一點sense才能快速學會。這樣的情況下，如果是一個會寫程式而且有人引路的人，其實絕對可以學得非常快；但是如果沒有人告訴你doc要從哪邊看起，其實我覺得就會稍微吃虧一點，要耐住性子，才能跟上doc的腳步，開始踏上學習 POVRAY 的偉大旅程。
 
 於是我想要自己重編一個 POVRAY 的教材。

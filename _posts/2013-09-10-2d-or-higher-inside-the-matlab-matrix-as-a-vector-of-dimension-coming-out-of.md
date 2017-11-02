@@ -35,7 +35,7 @@ AL = reshape(A, [numel(A) 1]);
  很簡單，用 `A(:)` 就解決了嘛！因為任何高維度的矩陣都可以用 linear index 來存取，所以全選符號 `:` 自然也可以用在 linear index上啊！重點是， **只要是用 linear index 來選元素，就一定會用 vector 的形式來噴出！ **
  
  所以......
-![matlab_colon.PNG](/assets/img/XBOY4ZkSgWJ90psqs7GT_matlab_colon.PNG) 
+![matlab_colon.PNG](/assets/img/2013/XBOY4ZkSgWJ90psqs7GT_matlab_colon.PNG) 
 我知道我之前做了蠢事，不過還是紀錄一下orz 
 
 ------

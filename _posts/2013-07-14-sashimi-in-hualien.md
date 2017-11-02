@@ -14,8 +14,8 @@ categories: [Hualien, taiwan, iPhone, sashimi, 生魚片, 日本料理]
 完整地址：花蓮縣吉安鄉建國路一段220號
 電話：03-8567003
 
-![IMG_0561.png](/assets/img/32hU5Hl7RAu22todJ2u1_IMG_0561.png)<!--more-->
-![IMG_0563.png](/assets/img/rZhitFXTBySITHIfAqCA_IMG_0563.png)![IMG_0565.png](/assets/img/H5jtNEFQyMMr67RldJXA_IMG_0565.png)
+![IMG_0561.png](/assets/img/2013/32hU5Hl7RAu22todJ2u1_IMG_0561.png)<!--more-->
+![IMG_0563.png](/assets/img/2013/rZhitFXTBySITHIfAqCA_IMG_0563.png)![IMG_0565.png](/assets/img/2013/H5jtNEFQyMMr67RldJXA_IMG_0565.png)
 雖然不確定這些魚是哪裡來的，但是吃了之後只能說感動啊！
 吃過賀川，新竹的築地鮮魚似乎可以不用再去了。
 

@@ -26,7 +26,7 @@ categories: [美國 加油 加州 路考 筆試 駕照 DMV los gatos red wood ci
 Santa Clara 是 Los Gatos 之外我也很熟悉的考場。不光是因為這裡是我最後考過的地方，也是因為我帶學弟來這邊練過非常多次，對周遭我已經熟到不用看地圖就可以直接出各種考題給他了。話雖然如此，我仍然認為 Santa Clara 是非常高難度的考場。這週遭涵蓋了商業區、住宅區；有超大型馬路如 El Camino Real，也有會有鴨子過馬路的悠閒住宅區道路；此外還有非常複雜的單向道路以及腳踏車專用道，幾乎所有我能想到的難題，這邊都出現了。
 此外 Santa Clara 要排隊考路考的人非常多，報到之後幾乎一整天就耗在這了。
 
-![IMG_8742.JPG](/assets/img/SsvRpkHaRtuv2UE6aw9F_IMG_8742.JPG)
+![IMG_8742.JPG](/assets/img/2016/SsvRpkHaRtuv2UE6aw9F_IMG_8742.JPG)
 *Santa Clara 的考區綜合了大馬路、商業區與住宅區，非常高難度*
 
 - [路線1、2、3](https://www.google.com/maps/d/u/0/viewer?mid=1QX9EP-QXKvOHSXFbwO6-xGFEAaQ&hl=en_US)：三條都非常真實，難度都差不多。不過路線並未標明方向，看的時候要注意，都是以順時針為原則（右轉為主），尤其紅色那條路線，如果方向開反是不通的。
@@ -63,7 +63,7 @@ Zipcar 的政策明確說明，他們非常歡迎 Zipcar 會員使用他們的�
 如果是跟其他租車公司租車，請先確認該公司是否同意你開他們的車去考試。如果同意的話，同樣要請他們開立一封信函，表明他們同意你開他們的車去考試，也同樣要請他們準備保險文件給你。
 
 
-![IMG_1161.JPG](/assets/img/CeJxfD3YTXehjGMvRvKQ_IMG_1161.JPG)
+![IMG_1161.JPG](/assets/img/2016/CeJxfD3YTXehjGMvRvKQ_IMG_1161.JPG)
 *DMV 提供的報到文件檢查表*
 
 # 考試當天
@@ -72,12 +72,12 @@ Zipcar 的政策明確說明，他們非常歡迎 Zipcar 會員使用他們的�
 
 報到後就可以回到車上發到車子，把車子開到排隊區。此時考生是可以坐在駕駛座上的，陪同你考試的人只要坐在副駕駛座陪你排隊就好。一直到排到出發區之後，考官接手之後陪同考試的人就可以去找地方發呆或喝咖啡了。
 
-![IMG_0277.JPG](/assets/img/M72nG9uJSiuuPmrKx1w1_IMG_0277.JPG)
+![IMG_0277.JPG](/assets/img/2016/M72nG9uJSiuuPmrKx1w1_IMG_0277.JPG)
 *一般 DMV 都會有兩個車道，不要排錯了*
 
 一開始考官不會馬上進到車內，會在車外要求你做一些基本的車輛操作，例如燈號、車燈控制、喇叭、手勢等等。準備就緒後他就會坐進車內要求你開車出發。
 
-![IMG_0281.JPG](/assets/img/XaaMgNquSHycthNgoFVB_IMG_0281.JPG)
+![IMG_0281.JPG](/assets/img/2016/XaaMgNquSHycthNgoFVB_IMG_0281.JPG)
 *一開始考官會在車外發號司令*
 
 上路後的檢定項目包含變換車道（數次）、號誌（protected）與無號誌（unprotected）右轉、左轉、路邊停車等等，全程都需要注意路況動向，並不是永遠保持在最高速就是對的；但是如果路況順暢，請盡量開在速限上（也就是時速指針接近速限或者剛好在速限上）。
@@ -86,7 +86,7 @@ Zipcar 的政策明確說明，他們非常歡迎 Zipcar 會員使用他們的�
 
 如果一切順利，考官會引導你開回 DMV，並要求你停在路考結束專用的停車格內。熄火拉煞車之後，考官會開始計算分數，並且鄭重地宣布考試結果。如果不幸沒有考過，可以虛心問考官如何改進。如果幸運通過，考官就會把考試成績單給你，告訴你可以去哪個櫃檯回報成績（沒考過就不用回去了）；這時候可以暫時把車子繼續停在路考結束停車格，辦完手續再開走即可。
 
-![IMG_0683.JPG](/assets/img/od87yluuShe018lDVPP2_IMG_0683.JPG)
+![IMG_0683.JPG](/assets/img/2016/od87yluuShe018lDVPP2_IMG_0683.JPG)
 *路考結束專用車位*
 
 希望這些資訊對大家有幫助，祝大家路考順利！

@@ -15,7 +15,7 @@ categories: [汐止, 五指山, 風櫃嘴, nonstop, 單車, bike, 公路車, def
 
 <!--more-->
 
-![IMG_4471.png](/assets/img/u3NNdLlBR0ap5mrdolQY_IMG_4471.png)
+![IMG_4471.png](/assets/img/2013/u3NNdLlBR0ap5mrdolQY_IMG_4471.png)
 經過兩次測量，從我家出發，到五指山山頂，正好15.5k，而且有趣的是，出發的時候的行進里程，正好是路邊（汐萬路）的公路里程加上一公里；這麼說來，五指山山頂的公路里程，應該差不多是14.5k。
 
 最近去了兩次五指山，都想挑戰不落地。其實以我快一年沒練車，突然想挑戰這個，實在是個奇想。但是另一方面來說，這一年來積極地練跑，我很確定我的體能和心肺耐力大有進步，所以其實挑戰不落地上五指山，應該是個驗收的好機會。
@@ -26,13 +26,13 @@ categories: [汐止, 五指山, 風櫃嘴, nonstop, 單車, bike, 公路車, def
 
 6/30 這次去完全臨時起意，而且沒記錯的話是睡午覺睡醒才準備要出發，所以搞了半天六點才上路，心中還天真的以為可以趕在魔幻時刻結束前上山。
 
-![IMG_4460.jpg](/assets/img/a4Q8SPZKTNOOk1YmSfE5_IMG_4460.jpg)
+![IMG_4460.jpg](/assets/img/2013/a4Q8SPZKTNOOk1YmSfE5_IMG_4460.jpg)
 結果上到五指山頂的時候天早就黑啦！大概花了80分鐘攻頂吧。這個時候出發的唯一好處是根本沒太陽，所以不太有因為太熱而流汗的消耗，但是要說路上都沒有流汗，那絕對是騙人的啦！
 
-![IMG_4463.jpg](/assets/img/wmT2J51RMyosnCRIXrd5_IMG_4463.jpg)
+![IMG_4463.jpg](/assets/img/2013/wmT2J51RMyosnCRIXrd5_IMG_4463.jpg)
 雖然已經七點多了，不過還是決定繞去風櫃嘴拍個照，打個卡。結果因為那天網路很不順，到那邊根本沒3G訊號，所以一拍完照就直接從風櫃嘴啟程回家了。
 
-![IMG_4465.jpg](/assets/img/zXCSZk38SguRPyaA91UK_IMG_4465.jpg)
+![IMG_4465.jpg](/assets/img/2013/zXCSZk38SguRPyaA91UK_IMG_4465.jpg)
 那天山上有點起霧，能見度不是很好。雖然上山的時候天已經黑了，不過基本上還是看得出來夜景是灰濛濛的，跟預期不太一樣。
 
 下山滿危險的，要過一段距離才有路燈。不過車流量很少，一直到烘內之前，根本沒有會車超過三次；不過這三次就很夠我受的了，因為路上是全黑的，會車一次就會讓我失去視覺幾秒，感覺有點危險，而且因為視線全黑，速度根本不敢放快，只能沿著道路邊線慢慢龜。
@@ -41,51 +41,51 @@ categories: [汐止, 五指山, 風櫃嘴, nonstop, 單車, bike, 公路車, def
 
 嗯，其實就是今天啦，又上去了一次。上次就算了，要四點半前出發，才來得及上山看黃昏。不過我自己知道自己個性拖拖拉拉，所以四點就開始換裝準備了，然後還跑去機車行打氣，差不多4:20從樟樹一路出發。
 
-![IMG_5200.jpg](/assets/img/jwdkKBtQRvOLMtzHS52l_IMG_5200.jpg)
+![IMG_5200.jpg](/assets/img/2013/jwdkKBtQRvOLMtzHS52l_IMG_5200.jpg)
 海拔699m，攻頂時間 1:17：44，總里程15.8k，均速 12.2 km/hr，最高速 41.5 km/hr
 是的我這次成功惹。而且我很賊，一開始就打算上來星城咖啡這邊~~摸魚~~休息，所以身上帶了兩百塊。
 
-![IMG_5205.jpg](/assets/img/VVVpWPYRqCE72mO0dQGG_IMG_5205.jpg)
+![IMG_5205.jpg](/assets/img/2013/VVVpWPYRqCE72mO0dQGG_IMG_5205.jpg)
 於是我怒點了鬆餅和冰沙。鬆餅不意外地難吃，冰沙普普，奶油很糟。總之能在這種地方吃到食物，已經很享受了，沒什麼好抱怨。
 
-![IMG_5214.jpg](/assets/img/Jvh9d2oQa2lqpt3fDmIQ_IMG_5214.jpg)
-![IMG_5218.jpg](/assets/img/QMw6MlZkS1ueB65DNvg7_IMG_5218.jpg)
+![IMG_5214.jpg](/assets/img/2013/Jvh9d2oQa2lqpt3fDmIQ_IMG_5214.jpg)
+![IMG_5218.jpg](/assets/img/2013/QMw6MlZkS1ueB65DNvg7_IMG_5218.jpg)
 可以看的海唷！
 
-![IMG_5231.jpg](/assets/img/FiHpe1biSr5mrJzbDjXZ_IMG_5231.jpg)
-![IMG_5242.jpg](/assets/img/vfxi0WxtQEWncqCJZWCQ_IMG_5242.jpg)
+![IMG_5231.jpg](/assets/img/2013/FiHpe1biSr5mrJzbDjXZ_IMG_5231.jpg)
+![IMG_5242.jpg](/assets/img/2013/vfxi0WxtQEWncqCJZWCQ_IMG_5242.jpg)
 乾脆來個半全景
 
 ## 移動到風櫃嘴
 
 剛才把今天的軌跡上傳到 [Marathon World](http://www.marathonsworld.com/ "Marathon World")，既然有單車的選項，所以我就不客氣地上傳了，結果發現對於GPS軌跡的分析還滿詳細的，反觀 bikemap 根本就不知道在搞什麼鬼。
 
-![螢幕快照 2013-07-27 下午11.46.56.png](/assets/img/4ccdreCeReuFYhMyJ5Ez_%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202013-07-27%20%E4%B8%8B%E5%8D%8811.46.56.png)
+![螢幕快照 2013-07-27 下午11.46.56.png](/assets/img/2013/4ccdreCeReuFYhMyJ5Ez_%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202013-07-27%20%E4%B8%8B%E5%8D%8811.46.56.png)
 上面這張圖證實了我的想像，也就是雖然中間有一小段爬升，但是從五指山到風櫃嘴，整體來說海拔是下降滿多的。雖然說GPS的海拔很不準，不過大致的趨勢應該是對的。
 
-![IMG_5248.jpg](/assets/img/JqIHuJvFTracDYTmaJfq_IMG_5248.jpg)
+![IMG_5248.jpg](/assets/img/2013/JqIHuJvFTracDYTmaJfq_IMG_5248.jpg)
 看到這幅風景，總覺得有什麼事情要發生了。
 
-![IMG_5259.jpg](/assets/img/iRyOD9STrylQeNDNbc5g_IMG_5259.jpg)
-![IMG_5261.jpg](/assets/img/hhq4lrpqRkmznbo3iylv_IMG_5261.jpg)
+![IMG_5259.jpg](/assets/img/2013/iRyOD9STrylQeNDNbc5g_IMG_5259.jpg)
+![IMG_5261.jpg](/assets/img/2013/hhq4lrpqRkmznbo3iylv_IMG_5261.jpg)
 雖然沒有直接看到夕陽，不過我還是感受到了今天的 magic hour 的魔力了！
 
-![IMG_5267.jpg](/assets/img/QP52YloPQdCjM4z7Xr71_IMG_5267.jpg)
+![IMG_5267.jpg](/assets/img/2013/QP52YloPQdCjM4z7Xr71_IMG_5267.jpg)
 這張是從風櫃嘴回五指山路上拍的，角度比在風櫃嘴還好。
 
-![IMG_5278.jpg](/assets/img/gZMEa3bqRGC2ojqTDYD2_IMG_5278.jpg)
+![IMG_5278.jpg](/assets/img/2013/gZMEa3bqRGC2ojqTDYD2_IMG_5278.jpg)
 原本騎回五指山涼亭了，發現這邊完全沒有粉紅色天空，我居然又折返，騎回剛才的小徑XD
 
-![IMG_5290.jpg](/assets/img/XqZnUfJHR86MzWMiSriE_IMG_5290.jpg)
+![IMG_5290.jpg](/assets/img/2013/XqZnUfJHR86MzWMiSriE_IMG_5290.jpg)
 雖然這一來回，已經沒有我剛才想拍的顏色了，不過還是抓住了 magic hour 的尾巴
 
-![IMG_5296.jpg](/assets/img/hIjMVLEYQLlnQpbarYwl_IMG_5296.jpg)
+![IMG_5296.jpg](/assets/img/2013/hIjMVLEYQLlnQpbarYwl_IMG_5296.jpg)
 華燈初上
 
-![IMG_5300.jpg](/assets/img/ZYwdLx7bSbuCQQ8fj5mR_IMG_5300.jpg)
+![IMG_5300.jpg](/assets/img/2013/ZYwdLx7bSbuCQQ8fj5mR_IMG_5300.jpg)
 下山的路上忍不住停下來拍這張。
 
-![IMG_5302.jpg](/assets/img/1lAy7C4eT2aRnzVBM8Fs_IMG_5302.jpg)
+![IMG_5302.jpg](/assets/img/2013/1lAy7C4eT2aRnzVBM8Fs_IMG_5302.jpg)
 這張圖應該是跟本文的第一張圖看起來一模一樣XD，只是這是今天記錄的。
 
 ### 今日小結

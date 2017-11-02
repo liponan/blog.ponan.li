@@ -16,7 +16,7 @@ categories: [ruby, regex, facebook, OpenGraph, Rubular, FQL]
 
 但是當你把那一頁存下來之後，你會發現， WTF 根本沒有幾個字是明碼啊。
 
-![螢幕截圖 2015-04-11 11.25.20.png](/assets/img/PYtFkamMTtW5Ya2zxATh_%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-04-11%2011.25.20.png)
+![螢幕截圖 2015-04-11 11.25.20.png](/assets/img/2015/PYtFkamMTtW5Ya2zxATh_%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-04-11%2011.25.20.png)
 所以，我放棄了。接著我試著 Google 關鍵字，發現很多人教大家用 **FGL** 來抓資料。因為我知道 open graph 可以做到我想要做的事情，但是懶得學；但是我會 SQL ，所以看到可以用看起來跟 SQL 長得根本一樣的 FQL 來做，當然是高興的不得了。
 
 但是，人生最厲害的就是這個 but ！ FQL 已經停用了。 GG。只好學用 open graph 啦。
@@ -30,14 +30,14 @@ categories: [ruby, regex, facebook, OpenGraph, Rubular, FQL]
 
 首先粉絲頁的 ID 可以在「關於」頁面的最下面找到。
 
-![螢幕截圖 2015-04-11 11.33.21.png](/assets/img/ZLe61mkSeOo2QXAuGd5o_%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-04-11%2011.33.21.png)
+![螢幕截圖 2015-04-11 11.33.21.png](/assets/img/2015/ZLe61mkSeOo2QXAuGd5o_%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-04-11%2011.33.21.png)
 接著 post id 可以用許多方法找到。
 
 這時候我們就用打開 Facebook 的 [API explorer](https://developers.facebook.com/tools/explorer "Facebook API explorer") 啦！第一次使用必須要先按一下 **Get Access Token**，隨意勾選一些項目後，就可以授權讀取資料。
 
 接著我們先試著將剛才得到的 Page ID 代入 open graph 的路徑之下：
 
-![螢幕截圖 2015-04-11 11.36.02.png](/assets/img/PISHn0aiQ2uAsaRpfu4M_%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-04-11%2011.36.02.png)
+![螢幕截圖 2015-04-11 11.36.02.png](/assets/img/2015/PISHn0aiQ2uAsaRpfu4M_%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-04-11%2011.36.02.png)
 此時回傳資料會列出這個粉絲頁的一些諸元。接著我們就要試著探索這個粉絲頁下面的貼文。首先可以試試看
 
 ```
@@ -46,10 +46,10 @@ categories: [ruby, regex, facebook, OpenGraph, Rubular, FQL]
 
 那麼就會列出前幾篇貼文，還有詳細的推文資料等等。其中我們感興趣的是post id，可以在這裡找到：
 
-![螢幕截圖 2015-04-11 11.39.20.png](/assets/img/T5c4JYpwQs2FAc8Ll9eR_%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-04-11%2011.39.20.png)
+![螢幕截圖 2015-04-11 11.39.20.png](/assets/img/2015/T5c4JYpwQs2FAc8Ll9eR_%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-04-11%2011.39.20.png)
 另外一個可以找到 post id 的地方當然就是貼文的網址啦！
 
-![螢幕截圖 2015-04-11 11.41.08.png](/assets/img/Tv4K1jXLRUebpQYKc4Vh_%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-04-11%2011.41.08.png)
+![螢幕截圖 2015-04-11 11.41.08.png](/assets/img/2015/Tv4K1jXLRUebpQYKc4Vh_%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-04-11%2011.41.08.png)
 如果是從網址抓來的話，那你要餵給 open graph 的形式就會變成是
 
 ```

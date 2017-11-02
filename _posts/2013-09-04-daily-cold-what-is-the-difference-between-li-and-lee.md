@@ -9,7 +9,7 @@ categories: [姓氏, 李姓, Li, Lee, 每日一冷, daily cold, 冷知識, trivi
 
 李姓是華人世界第一大姓、中國大陸第二大姓、台灣第五大姓。 Mr. Wednesday 最常被人問的問題之一，就是 Li 和 Lee 有什麼不一樣？嗯，這是一個好問題，我們得先從台灣使用過的拼音法講起。
 
-![daily_cold0904.png](/assets/img/19rMKdFOQguT557IUNXJ_daily_cold0904.png)<!--more-->
+![daily_cold0904.png](/assets/img/2013/19rMKdFOQguT557IUNXJ_daily_cold0904.png)<!--more-->
 
 在台灣，最常用的拼音法不用說，當然就是注音符號ㄅㄆㄇㄈ；然而我們也需要一套可以把國字的發音轉換成英文字母，讓外籍人士也可以拼讀的系統，因此自民國初年以來，政府陸陸續續採用過不少的拼音系統。
 

@@ -5,44 +5,44 @@ date: 2013-10-20 15:01
 comments: true
 categories: [高雄, 高雄捷運, KMRT, 美麗島站, 咖啡, 咖啡杯]
 ---
-![IMG_4890.jpg](/assets/img/oYYqoRGhQbuUeEbq4uKA_IMG_4890.jpg)
+![IMG_4890.jpg](/assets/img/2013/oYYqoRGhQbuUeEbq4uKA_IMG_4890.jpg)
 
 上禮拜的國慶 ~~連假~~ 我去了一趟高雄。行程的第二天，也就是 10/11 禮拜五，在早上起來再次膜拜過小鴨然後晃了一圈駁二藝術區之後，本來我就要北上回左營搭高鐵了。我從駁二一路騎高雄的 c-bike騎到美麗島站，原本想直接搭去之前還沒去過的漢神巨蛋逛逛順便吃午餐，不過因為曬太陽有點累，而且很早就吃早餐了，11點的時候有點餓了，於是就決定找一家咖啡店進去歇一歇，殊不知緊接而來的是一連串的驚喜。
 
 <!--more-->
 
-![IMG_4857.jpg](/assets/img/bRiNv33FTUWYpycQfpVW_IMG_4857.jpg)
+![IMG_4857.jpg](/assets/img/2013/bRiNv33FTUWYpycQfpVW_IMG_4857.jpg)
 不免俗地，還是要先去拍一張美麗島朝聖照！
 
 原本是想在站內找置物櫃，不過閒晃著，看到了一幅奇怪的地畫
 
-![IMG_4867.jpg](/assets/img/vuZ4W9zqQMKIHYHYYwoA_IMG_4867.jpg)
+![IMG_4867.jpg](/assets/img/2013/vuZ4W9zqQMKIHYHYYwoA_IMG_4867.jpg)
 這幅畫老實說我是在回家以後用電腦把它調亮以後才比較看的出內容；在現場因為燈光實在是太昏暗了，根本一點3D的感覺都沒有。
 
 畫的旁邊是一家叫作 APEULS COFFEE （雅裴詩）的咖啡店，因為我正好想喝杯冰咖啡，順便休息一下，於是我就進去惹。
 
-![IMG_4869.jpg](/assets/img/2QqeNSxXR1yoHqZvGAVJ_IMG_4869.jpg)
+![IMG_4869.jpg](/assets/img/2013/2QqeNSxXR1yoHqZvGAVJ_IMG_4869.jpg)
 店員問我坐吧台邊可以嗎？其實我本來是想一個人獨佔一張桌子的，而且其實這時候店內完全沒有其他客人，所以店員這樣問我其實我還滿意外的，不過我說好，於是就被安排坐在吧台中間的位置。
 
-![IMG_4876.jpg](/assets/img/DApDdf3JSNO1azw2RlQu_IMG_4876.jpg)
-![IMG_4878.jpg](/assets/img/gslXAIVjQjyo8NNUCS7x_IMG_4878.jpg)
-![IMG_4884.jpg](/assets/img/W7HOfdxQ4ugbDLFQJzTP_IMG_4884.jpg)
+![IMG_4876.jpg](/assets/img/2013/DApDdf3JSNO1azw2RlQu_IMG_4876.jpg)
+![IMG_4878.jpg](/assets/img/2013/gslXAIVjQjyo8NNUCS7x_IMG_4878.jpg)
+![IMG_4884.jpg](/assets/img/2013/W7HOfdxQ4ugbDLFQJzTP_IMG_4884.jpg)
 坐定之後我就開始東張西望，然後也稍微拍了點店內的擺設。連吧台的下方，也相當講究呢！
 
 不一會兒，我點的鮮奶茶先來了 ~~（喂你不是說你要喝冰咖啡的嗎？XD）~~ 第一眼的感覺是上面的奶泡好綿密、好漂亮。因為我有看到店員在吧台裡面打，所以實際上品嚐這個奶泡的時候，格外有畫面。
 
-![IMG_4888.jpg](/assets/img/wxvj67E8SpeOAOceJH5M_IMG_4888.jpg)
+![IMG_4888.jpg](/assets/img/2013/wxvj67E8SpeOAOceJH5M_IMG_4888.jpg)
 過了一會兒，鬆餅也上來了 ~~（什麼你居然還點了鬆餅哪招啊！）~~ 因為實在是太驚人了，所以我忍不住拍了超多照片...... 這個鬆餅實在是... 超漂亮啊！
 
-![IMG_4894.jpg](/assets/img/nydHzJleSF269CdWiOLt_IMG_4894.jpg)
-![IMG_4905.jpg](/assets/img/gkR1Yg2eQm61rNrcYAFo_IMG_4905.jpg)
+![IMG_4894.jpg](/assets/img/2013/nydHzJleSF269CdWiOLt_IMG_4894.jpg)
+![IMG_4905.jpg](/assets/img/2013/gkR1Yg2eQm61rNrcYAFo_IMG_4905.jpg)
 稍微轉動了一下餐盤，才發現換個角度又別有洞天！
 
-![IMG_4909.jpg](/assets/img/3BqZUSFfS1SeMkIFnVUh_IMG_4909.jpg)
+![IMG_4909.jpg](/assets/img/2013/3BqZUSFfS1SeMkIFnVUh_IMG_4909.jpg)
 邊吃，其實又邊繼續欣賞店內的風景XDDDDDD
 
-![IMG_4923.jpg](/assets/img/MifUIq4RHakZbVALKU9z_IMG_4923.jpg)
-![IMG_4930.jpg](/assets/img/L6RUt3FR568U0yAfJMzR_IMG_4930.jpg)
+![IMG_4923.jpg](/assets/img/2013/MifUIq4RHakZbVALKU9z_IMG_4923.jpg)
+![IMG_4930.jpg](/assets/img/2013/L6RUt3FR568U0yAfJMzR_IMG_4930.jpg)
 # 插曲
 
 吃完之後，我想到剛才上餐點的時候，店員都是繞了一大圈從吧台裡面拿出來的，所以我想說就順手幫他們把餐點送回去（不知道為什麼現在都會有這種習慣，是在自己要回收餐盤的餐廳吃習慣了嗎？）。我示意性地把鬆餅的盤子拿起來，做出要把它放回吧台平台上的動作，店員說了聲謝謝，於是我把鬆餅的白色盤子放下，接著又拿起裝鮮奶茶的玻璃咖啡杯－－但是就在我把它放在吧台上的一瞬間－－

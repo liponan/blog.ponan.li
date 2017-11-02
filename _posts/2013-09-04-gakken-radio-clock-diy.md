@@ -7,7 +7,7 @@ categories: [Gakken, 大人的科學, 電波時計]
 ---
 上上禮拜去新竹誠品就有看到了，但是當時只注意到是電波時計，因為我知道台灣基本上是收不到電波訊號的，所以就沒有特別有興趣。
 
-![sr_b 036.jpg](/assets/img/YGlfxTjQxyDTB5M6OJqo_sr_b%20036.jpg)
+![sr_b 036.jpg](/assets/img/2013/YGlfxTjQxyDTB5M6OJqo_sr_b%20036.jpg)
 前幾天才意識到這東西是翻牌式的啊啊啊啊啊啊啊，馬上冒出了「可惡想買」的念頭！
 
 然後今天（8/27， ~~也就是 Logdown Party 那天~~）就迎娶（？）回家了。不多不少花了兩小時才組完orz

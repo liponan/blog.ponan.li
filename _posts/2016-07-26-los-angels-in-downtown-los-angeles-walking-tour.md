@@ -9,7 +9,7 @@ categories: [la, los angeles, california, 加州, 洛杉磯, 天使之城, MOCA]
 
 
 
-![la_downtown.png](/assets/img/rbaqcyE1SvWUnXdojxq6_la_downtown.png)
+![la_downtown.png](/assets/img/2016/rbaqcyE1SvWUnXdojxq6_la_downtown.png)
 [地圖版](https://www.google.com.tw/maps/@34.0510089,-118.2471355,15.66z "LA downtown")
 
 ## Union Statin

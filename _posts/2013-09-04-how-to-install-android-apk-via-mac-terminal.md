@@ -87,7 +87,7 @@ categories: [mac, terminal, apk, sdk, android, HTC, eclipse, java, app, AppUnive
 而就在此時，學妹也傳給我最新的 apk 檔
 
 剎那間......
-![217505_3000255943412_306377090_n.jpg](/assets/img/rZZEECrbRTKu46f4cb4g_217505_3000255943412_306377090_n.jpg)
+![217505_3000255943412_306377090_n.jpg](/assets/img/2013/rZZEECrbRTKu46f4cb4g_217505_3000255943412_306377090_n.jpg)
 magic......
 
 原來，要改成用 `API8`才行（撰寫本文的此時我弟說已經到 `API18`了）
