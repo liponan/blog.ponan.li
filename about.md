@@ -10,7 +10,7 @@ You might also want to check out my
 
 - [GitHub](https://github.com/leeneil "leeneil on GitHub")
 - [Homepage](http://ponan.li/ "ponan.li")
-- [Publications](http://blog.ponan.li/publications "Publications of Po-Nan Li")
+- [Publications](http://blog.ponan.li/pages/publications "Publications of Po-Nan Li")
 
 # About me
 Po-Nan is currently PhD candidate at Electrical Engineering, Stanford University. He specializes C/C++ and Matlab programming for scientific computation and X-ray imaging. His research interests include X-ray coherent imaging, biological computation and computational imaging.
