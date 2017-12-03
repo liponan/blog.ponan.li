@@ -15,7 +15,7 @@ categories:
 
 最後缺少的一塊拼圖，是如何快速轉換太陽曆跟陰曆的日期？這裡要感謝 lidaobing 開源的 [python-lunardate](https://github.com/lidaobing/python-lunardate)提供了這個重要的功能。
 
-以下就是最近的 100 年的立春次數表。此外我也做了一個簡單的 [JSON]('assets/lichun_1950_2049.jspn')檔案，可供查詢每一年的立春發生次數。
+以下就是最近的 100 年的立春次數表。此外我也做了一個簡單的 [JSON](assets/lichun_1950_2049.json)檔案，可供查詢每一年的立春發生次數。
 
 ## 1950 到 2049 孤鸞年與寡婦年列表
 
@@ -129,13 +129,6 @@ categories:
 ### 干支年查詢
 
 {% highlight python %}
-
-{% endhighlight %}
-
-
-### 生肖年查詢
-
-{% highlight python %}
 def zodiac(year):
     if year < 1:
         raise Exception('僅支援西元後年份')
@@ -143,7 +136,7 @@ def zodiac(year):
     return zodiacs[ (year-4) % 12  ]
 {% endhighlight %}
 
-
+### 生肖年查詢
 
 {% highlight python %}
 def ganzhi(year):
