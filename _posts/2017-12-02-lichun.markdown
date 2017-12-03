@@ -3,7 +3,7 @@ layout: post
 title:  "孤鸞年、寡婦年年曆"
 date:   2017-12-02 20:32:51 -0700
 published: true
-categories:
+categories: [python 曆法 天文 資料科學]
 ---
 
 

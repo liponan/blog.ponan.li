@@ -9,13 +9,14 @@ Last update: Oct 2017
 # Refereed Journal Publications
 
 - J. Herrmann, F. Jabbarpour, P.G. Bargar, J.F. Nomellini, **P.-N. Li**, T.J. Lane, T.M. Weiss, J. Smit, L. Shapiro, and S. Wakatsuki, “Environmental Calcium Controls Alternate Physical States
-of the Caulobacter Surface Layer,” Biophys. J. **112**, 1 (2017). ([link](http://www.cell.com/biophysj/abstract/S0006-3495(17)30390-9))
+of the Caulobacter Surface Layer,” Biophys. J. **112**, 1 (2017). [[link]](http://www.cell.com/biophysj/abstract/S0006-3495(17)30390-9 "Environmental Calcium Controls Alternate Physical States
+of the Caulobacter Surface Layer")
 
-- **Po-Nan Li**, Zong-Han Wu, Chien-Nan Hsiao, Ting-Kuo Lee, and Chien-Chun Chen, “Determination of three-dimensional atomic positions from tomographic reconstruction using ensemble empirical mode decomposition,” New J. Phys. **18**, 083025 (2016). ([link](http://iopscience.iop.org/article/10.1088/1367-2630/18/8/083025))
+- **Po-Nan Li**, Zong-Han Wu, Chien-Nan Hsiao, Ting-Kuo Lee, and Chien-Chun Chen, “Determination of three-dimensional atomic positions from tomographic reconstruction using ensemble empirical mode decomposition,” New J. Phys. **18**, 083025 (2016). [[link]](http://iopscience.iop.org/article/10.1088/1367-2630/18/8/083025 "Determination of three-dimensional atomic positions from tomographic reconstruction using ensemble empirical mode decomposition")
 
-- Ti-Yen Lan, **Po-Nan Li**, and Ting-Kuo Lee, "Method to enhance the resolution of x-ray coherent diffraction imaging for non-crystalline bio-samples," New J. Phys. **16**, 033016 (2014). ([link](http://iopscience.iop.org/1367-2630/16/3/033016 "Method to enhance the resolution of x-ray coherent diffraction imaging for non-crystalline bio-samples"))
+- Ti-Yen Lan, **Po-Nan Li**, and Ting-Kuo Lee, "Method to enhance the resolution of x-ray coherent diffraction imaging for non-crystalline bio-samples," New J. Phys. **16**, 033016 (2014). [[link]](http://iopscience.iop.org/1367-2630/16/3/033016 "Method to enhance the resolution of x-ray coherent diffraction imaging for non-crystalline bio-samples")
 
-- **Po-Nan. Li**, Hsiu-Hao Tsao, Jer-Sing Huang, and Chen-Bin Huang, “Subwavelength localization of near fields in coupled metallic spheres for single-emitter polarization analysis,” Opt. Lett. **36**, 2339-2341 (2011). ([link](http://www.opticsinfobase.org/ol/abstract.cfm?uri=ol-36-12-2339 "Subwavelength localization of near fields in coupled metallic spheres for single-emitter polarization analysis"))
+- **Po-Nan. Li**, Hsiu-Hao Tsao, Jer-Sing Huang, and Chen-Bin Huang, “Subwavelength localization of near fields in coupled metallic spheres for single-emitter polarization analysis,” Opt. Lett. **36**, 2339-2341 (2011). [[link]](http://www.opticsinfobase.org/ol/abstract.cfm?uri=ol-36-12-2339 "Subwavelength localization of near fields in coupled metallic spheres for single-emitter polarization analysis")
 
 # International Conference papers
 
