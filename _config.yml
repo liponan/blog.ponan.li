@@ -30,21 +30,21 @@ markdown: kramdown
 # markdown: redcarpet
 theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
+#  - jekyll-feed
+#  - jekyll-sitemap
+#  - jekyll-paginate
 
-paginate: 10
-paginate_path: ":num"
+#paginate: 10
+#paginate_path: ":num"
 
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
+#defaults:
+#  - scope:
+#      path: "assets/img"
+#    values:
+#      image: true
 
-exclude:
-    - node_modules
+#exclude:
+#    - node_modules
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
