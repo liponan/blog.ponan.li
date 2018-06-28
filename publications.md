@@ -4,9 +4,11 @@ title: Publications
 permalink: /pages/publications/
 ---
 
-Last update: Oct 2017
+Last update: June 2018
 
 # Refereed Journal Publications
+
+- **Po-Nan Li**, Jonathan Herrmann, Bradley B. Tolar, Frédéric Poitevin, Rasika Ramdasi, John R. Bargar, David A. Stahl, Grant J. Jensen, Christopher A. Francis, Soichi Wakatsuki & Henry van den Bedem, "Nutrient transport suggests an evolutionary basis for charged archaeal surface layer proteins," ISME J. (2018). [[link]](https://www.nature.com/articles/s41396-018-0191-0 "Nutrient transport suggests an evolutionary basis for charged archaeal surface layer proteins") [[news]](https://www6.slac.stanford.edu/news/2018-06-13-slac-stanford-scientists-discover-how-hardy-microbe%E2%80%99s-crystalline-shell-helps-it "SLAC, Stanford Scientists Discover How a Hardy Microbe’s Crystalline Shell Helps it Reel in Food")
 
 - J. Herrmann, F. Jabbarpour, P.G. Bargar, J.F. Nomellini, **P.-N. Li**, T.J. Lane, T.M. Weiss, J. Smit, L. Shapiro, and S. Wakatsuki, “Environmental Calcium Controls Alternate Physical States
 of the Caulobacter Surface Layer,” Biophys. J. **112**, 1 (2017). [[link]](http://www.cell.com/biophysj/abstract/S0006-3495(17)30390-9 "Environmental Calcium Controls Alternate Physical States
@@ -22,7 +24,9 @@ of the Caulobacter Surface Layer")
 
 *Presenter italicized*
 
-- C.-F. Huang, **P.-N. Li**, T.-T. Lee, Y. Bessho, Y. Hwu, T.-K. Lee, K. S. Liang, W.-H. Chang, P. Chen, T.-L. Hsu, C. Ma, Y. Joti, T. Kimura, Y. Nishino., "Measurement and simulation of interference enhancement in coherent X-ray diffraction imaging of gold nano-particles and influenza virus in water at SACLA," 12th International Conference on Biology and Synchrotron Radiation, W08, Menlo Park, CA, USA, 2016.
+- **Po-Nan Li**, Jonathan R Herrmann, Frederic PB Poitevin, Rasika Ramdasi, Bradley B Tolar, John Barger, David Stahl, Grant Jensen, Soichi Wakatsuki, Henry van den Bedem, "Cryo Electron Tomography and Reaction-Diffusion Simulations Reveal a Molecular and Evolutionary Basis for Charged Archaeal Surface Layer Proteins," Bioyphysical Society 62nd Annual Meeting, 2443-Pos, San Francisco, CA, USA, 2018.
+
+- C.-F. Huang, **P.-N. Li**, T.-T. Lee, Y. Bessho, Y. Hwu, T.-K. Lee, K. S. Liang, W.-H. Chang, P. Chen, T.-L. Hsu, C. Ma, Y. Joti, T. Kimura, Y. Nishino, "Measurement and simulation of interference enhancement in coherent X-ray diffraction imaging of gold nano-particles and influenza virus in water at SACLA," 12th International Conference on Biology and Synchrotron Radiation, W08, Menlo Park, CA, USA, 2016.
 
 - **P.-N. Li**, P. Pianetta, S. Wakatsuki, and Y. Liu, "Resolution enhancement of transmission x-ray microscopy using coherent diffraction," 12th International Conference on Biology and Synchrotron Radiation, W07, Menlo Park, CA, USA, 2016.
 
