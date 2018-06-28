@@ -79,7 +79,7 @@ categories: [美國 加州 舊金山 結婚]
 
 ### 翻譯結婚證書
 
-去舊金山的台北辦事處（TECO）辦理結婚證書驗證前，要自己先翻譯好中文譯本。[舊金山TECO的有提供一份相當不錯的範本](https://www.taiwanembassy.org/ussfo/cat/15.html)，基本上雖然各郡的格式略有出入，但是也八九不離十。不過龜毛如我，還是自己動手**畫**了一張更詳細的中文譯本表格。有要在聖馬刁（San Mateo County）領取結婚執照的朋友可以參考[我的版本](/assets/certificate_translation.docx)。
+去舊金山的台北辦事處（TECO）辦理結婚證書驗證前，要自己先翻譯好中文譯本。[舊金山TECO有提供一份相當不錯的範本](https://www.taiwanembassy.org/ussfo/cat/15.html)，基本上雖然各郡的格式略有出入，但是也八九不離十。不過龜毛如我，還是自己動手**畫**了一張更詳細的中文譯本表格。有要在聖馬刁（San Mateo County）領取結婚執照的朋友可以參考[我的版本](/assets/certificate_translation.docx)。
 
 ### 舊金山辦事處
 
