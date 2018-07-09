@@ -15,7 +15,7 @@ As a researcher, I definitely cannot say it's just my feeling; instead, I should
 After some simple research by googling, I quickly find this [very nice webpage](https://www.moi.gov.tw/stat/chart.aspx?ChartID=S0703) by Taiwanese government's Department of Statistics, Ministry of Interior, which, surprisingly, includes a basic visualization feature.
 With the help of this online tool, we instantly prove that indeed that the marriage trend in Taiwan is like a periodic function and hits peaks at every year's end.
 
-I shared this finding with some of my data science buddied and got some feedbacks, the most intriguing one being that Taiwanese couple are actually not getting married at the end of the year; instead, it's more precise to say that they strive to doing this before the end of a "lunar year."
+I shared this finding with some of my data science buddies and got some feedbacks, the most intriguing one being that they wonder if Taiwanese couples are actually not getting married at the end of the year; instead, would it be more precise to say that they strive to doing this before the end of a **lunar year**?
 In Taiwan, while the official calendar system is the Gregorian calendar, most of the people also observe the "Farmer's calendar," a type of lunar calendar.
 Dates of most of the official holidays in Taiwan observe the farmer's calendar and most Taiwanese people believe the farmer's calendar better reflects the climate change.
 For example, Taiwaneses celebrate "new year" in the mid-January or February, as the farmer's calendar is usually one to two months behind the Gregorian, which is solar-based.
