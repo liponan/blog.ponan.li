@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The myth of Taiwanese couples get married at the end of the year"
+title:  "The myth of Taiwanese couples getting married at the end of the year"
 date:   2018-07-08 15:00:00 -0700
 published: true
 categories: [python "data science"]
