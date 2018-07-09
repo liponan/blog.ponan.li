@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "The myth of Taiwanese couples getting married at the end of the year"
-date:   2018-07-08 15:00:00 -0700
+title:  "Top 250 Global Attractions"
+date:   2018-07-08 23:00:00 -0700
 published: true
-categories: [python "data science"]
+categories: [Ruby "data science"]
 ---
 
 Note: This post is an English version excerpt of [an article published on 2017/12/03](http://blog.ponan.li/post/2017/12/03/wedding-trend-end-of-year/), which was originally written in Chinese.
@@ -83,5 +83,3 @@ What intrigues me is that the peaks of birth near the end of years of dragon and
 These matches the general impression that some parents would "wait" a little bit so they can give birth of a dragon kid.
 Interestingly but unsurprisingly, the acceptance rates of both high school and college entrances for the generation of dragon children (i.e. 15 years and 18 years after their birth) are noticeably low as they have more competitors.
 Fun fact: my zodiac is dragon.
-
-The data and code are avaiable on [my GitHub repo](https://github.com/leeneil/taiwan-vital-records).
