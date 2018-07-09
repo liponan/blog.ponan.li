@@ -10,8 +10,8 @@ Note: This post is an English version excerpt of [an article published on 2017/1
 
 Author: Po-Nan Li
 
-The other day I was chatting with my wife and both of us felt that they have been so many people either attending a wedding or themselves getting married lately at the end of the year.
-As a researcher, I absolutely cannot say it's just my feeling; instead, I should try to find some evidence to back this conjecture!  
+The other day I was chatting with my wife and both of us felt that there have been so many people either attending a wedding or themselves getting married lately at the end of the year.
+As a researcher, I definitely cannot say it's just my feeling; instead, I should try to find some evidences to back this conjecture!  
 After some simple research by googling, I quickly find this [very nice webpage](https://www.moi.gov.tw/stat/chart.aspx?ChartID=S0703) by Taiwanese government's Department of Statistics, Ministry of Interior, which, surprisingly, includes a basic visualization feature.
 With the help of this online tool, we instantly prove that indeed that the marriage trend in Taiwan is like a periodic function and hits peaks at every year's end.
 
