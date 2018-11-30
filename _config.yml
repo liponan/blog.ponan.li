@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: NaN
 email: hi@ponan.li
+locale: zh_TW
 description: >- # this means to ignore newlines until "baseurl:"
   NaN is not a number
 baseurl: "" # the subpath of your site, e.g. /blog

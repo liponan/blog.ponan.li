@@ -4,9 +4,9 @@ title: "邊開票邊投票讓排隊選民棄姚保柯？"
 date: 2018-11-29 20:28
 comments: true
 categories: ["data science", "python"]
+image: /assets/taipei-replay/og.png
 ---
 
-<meta property="og:image" content="http://blog.ponan.li/assets/taipei-replay/og.png" />
 <link href='/assets/taipei-replay/mg.css' rel='stylesheet' type='text/css' id='light'>
 <script src='https://d3js.org/d3.v4.min.js' charset='utf-8'></script>
 <script src='/assets/taipei-replay/metricsgraphics.min.js'></script>
