@@ -1,13 +1,16 @@
 ---
 layout: post
 title: "台北忠孝復興：土三寒六讚岐烏龍麵"
-date: 2013-10-04 17:16
+date: 2099-10-04 17:16
 comments: true
 categories: [食記, 烏龍麵, 日本料理, 台北, 忠孝復興, udon]
 ---
 
 ### 備份 SQL
 
+`mysqldump --add-drop-table -h localhost -u root -p wp > 20181125.backup.sql`
+
+`mysql -h localhost -u root -p wp_dailycold < 20181125.backup.sql`
 
 ### 備份所有靜態檔案
 
