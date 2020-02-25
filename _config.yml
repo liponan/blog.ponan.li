@@ -30,7 +30,7 @@ analytics: UA-42052947-1
 markdown: kramdown
 # markdown: redcarpet
 theme: jekyll-theme-slate
-plugins:
+# plugins:
 #  - jekyll-feed
 #  - jekyll-sitemap
 #  - jekyll-paginate
