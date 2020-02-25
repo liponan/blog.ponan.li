@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+  {% include head.html %}
+  {% include og.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+    {% include analytics.html %}
+
+  </body>
+
+</html>

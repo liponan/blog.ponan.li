@@ -29,7 +29,10 @@ analytics: UA-42052947-1
 # Build settings
 markdown: kramdown
 # markdown: redcarpet
-theme: jekyll-theme-cayman
+theme: minima
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
 # plugins:
 #  - jekyll-feed
 #  - jekyll-sitemap
