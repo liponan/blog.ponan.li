@@ -9,7 +9,10 @@ categories: ["data science", "data viz", "taiwan"]
 作者： 李柏南 Po-Nan Li
 
 - 互動圖表：https://plot.ly/~liponan/1/#/plot
+- 圖表資料：https://plot.ly/~liponan/1/#data
+- 原始資料：[下載](/assets/taiwan_ceec_data.zip)
 - 資料來源：https://www.ceec.edu.tw/xmdoc?xsmsid=0J018604485538810196
+
 
 
 浪費一整晚的一百種方式之寫了爬蟲抓了整個大考中心的統計資料，再人工一筆一筆從 XLS 中複製貼上出來＠＠
