@@ -29,11 +29,7 @@ analytics: UA-42052947-1
 # Build settings
 markdown: kramdown
 # markdown: redcarpet
-<<<<<<< HEAD
-theme: minima
-=======
 theme: jekyll-theme-slate
->>>>>>> 3cff2773460649378e450c1c3b43b3356a62fb9c
 plugins:
 #  - jekyll-feed
 #  - jekyll-sitemap
