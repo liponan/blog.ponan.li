@@ -8,10 +8,10 @@ categories: ["data science", "data viz", "taiwan"]
 
 作者： 李柏南 Po-Nan Li
 
-- 互動圖表：https://plot.ly/~liponan/1/#/plot
-- 圖表資料：https://plot.ly/~liponan/1/#data
+- 互動圖表：[https://plot.ly/~liponan/1/#/plot](https://plot.ly/~liponan/1/#/plot)
+- 圖表資料：[https://plot.ly/~liponan/1/#data](https://plot.ly/~liponan/1/#data)
 - 原始資料：[下載](/assets/taiwan_ceec_data.zip)
-- 資料來源：https://www.ceec.edu.tw/xmdoc?xsmsid=0J018604485538810196
+- 資料來源：[大考中心/學科能力測驗/統計資料](https://www.ceec.edu.tw/xmdoc?xsmsid=0J018604485538810196)
 
 
 
