@@ -4,7 +4,7 @@ title: "台北捷運進站與出站人數最懸殊的車站是？"
 date: 2020-03-14 18:22
 comments: true
 categories: ["data science", "data viz", "taiwan", "metro", "taipei"]
-image: /assets/taipei-metro-ridership/og.png
+image: /assets/taipei-metro-ridership/og2.png
 ---
 
 <link rel="stylesheet" href="/assets/css/iframe.css">
