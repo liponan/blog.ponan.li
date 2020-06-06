@@ -15,5 +15,15 @@ image: /assets/han-recall/og.png
 - 資料來源：[中央選舉委員會](https://recall.2020.nat.gov.tw/)
 
 
+## 逐時開票記錄
 
-<iframe frameborder="0" scrolling="no" height="400" width="800" src="/assets/han-recall/han-recall.html"></iframe>
+<iframe frameborder="0" scrolling="no" height="300" width="600" src="/assets/han-recall/han-recall.html"></iframe>
+
+## 與 2020 蔡英文於總統大選得票率之比較
+
+<iframe frameborder="0" scrolling="no" height="600" width="600" src="/assets/han-recall/recall_vs_2020.html"></iframe>
+
+## 與 2018 陳其邁於市長選舉得票率之比較
+
+<iframe frameborder="0" scrolling="no" height="600" width="600" src="/assets/han-recall/recall_vs_2018.html"></iframe>
+
