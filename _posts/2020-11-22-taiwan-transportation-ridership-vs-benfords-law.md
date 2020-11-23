@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "台北捷運進站與出站人數最懸殊的車站是？"
-date: 2020-03-14 18:22
+date: 2020-11-22 21:15
 comments: true
 categories: ["data science", "data viz", "taiwan", "metro", "taipei", "Benford's Law"]
-image: /assets/taipei-metro-ridership/og2.png
+image: /assets/benford/taipei_metro_ridership_vs_benfords_law.png
 ---
-
-<link rel="stylesheet" href="/assets/css/iframe.css">
 
 作者： 李柏南 Po-Nan Li
 
