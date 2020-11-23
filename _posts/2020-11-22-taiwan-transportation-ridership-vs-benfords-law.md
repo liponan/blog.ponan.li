@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "台北捷運進站與出站人數最懸殊的車站是？"
+title: "台鐵和台北捷運的統計數據符合 Benford's law 嗎？"
 date: 2020-11-22 21:15
 comments: true
 categories: ["data science", "data viz", "taiwan", "metro", "taipei", "Benford's Law"]
