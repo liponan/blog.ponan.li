@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 機器學習、資料處理、程式家教
+title: 程式家教
 permalink: /tutoring/
 ---
 
