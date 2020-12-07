@@ -47,4 +47,4 @@ permalink: /tutoring/
 
 [請在此填寫您的資料](https://bit.ly/ponan-tutoring)，我會在 24 小時內回信與您討論適合您的課程。
 
-也可以直接透過電子郵 hi@ponan.li 洽詢。
+也可以直接寄信到 hi@ponan.li 洽詢。
