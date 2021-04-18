@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "台灣的強震比較常在半夜發生嗎？"
-date: 2021-04-18 13:00
+date: 2021-04-18 14:13
 comments: true
 categories: ["data science", "data viz", "taiwan", "weather", "earthquake", "Seismology"]
 image: /assets/benford/taipei_metro_ridership_vs_benfords_law.png
@@ -14,15 +14,33 @@ image: /assets/benford/taipei_metro_ridership_vs_benfords_law.png
 - 資料來源：[中央氣象局](https://opendata.cwb.gov.tw/index)
 
 
+昨天（台灣時間 4/18）晚上十點，台灣發生了兩次（中央氣象局第025、第026號）顯著有感地震。大家搶著發[地震文](https://pttpedia.fandom.com/zh/wiki/%E5%9C%B0%E9%9C%87%E6%96%87)之餘，也不禁又提起這個價值連城程度不輸「颱風是不是都是在週末的時候來」的問題：強震是不是比較常在深夜的時候發生？
+為了可以比較有憑有據地回答這個問題，我蒐集了從2016年4月25日起至2021年4月18日止（均台灣時間）將近五年區間，中央氣象局發佈的448筆[有感地震](https://scweb.cwb.gov.tw/zh-TW/Guidance/FAQdetail/16)報告，研究以下兩個問題：強震是不是比較多發生在深夜，以及在台北感覺到的有感地震，是不是通常都是在深夜？
+
 ## 強震比較常在半夜發生嗎？
 
+首先我們在這裡已經假設各位讀者對「地震規模」以及「震度」這兩個概念熟悉。一次地震事件只會有一個「芮氏規模」，同樣一次地震事件，離震央中心距離不同的測站，會測到不同的「震度」。首先我們先不論所在的地區，純粹只整理這448次地震事件的規模。
 
-<iframe frameborder="0" scrolling="no" height="300" width="600" src="/assets/taiwan-earthquake/mag_vs_time.html"></iframe>
+<iframe frameborder="0" scrolling="no" height="600" width="800" src="/assets/taiwan-earthquake/mag_vs_time.html"></iframe>
+
+上面的圖表，角度是一天中的時間，離圓心越遠的資料點表示地震規模越大。直觀上看起來，規模大的地震在一天中任何時間都有可能會發生（或這說一天中任何時間都有機會觀測到規模大的地震）。如果我們想要比較「量化」這個圖表所表示的意義，我們可以計算以芮氏規模加權的「平均地震發生時間」，據此推算是否一天之中有哪一個時間點，比較有可能會發生強震？計算結果是早上 11:48 ，非常接近中午，也就是說作為一個時間的函數，強震的發生機率可以說是一個連續均勻分布。
 
 ## 台北市比較常在半夜被震醒？
 
-<iframe frameborder="0" scrolling="no" height="300" width="600" src="/assets/taiwan-earthquake/taipei_intensity_vs_time.html"></iframe>
+從另一個觀點來看，假設我是一個台北市的居民，我常常有半夜被地震震醒起來發地震文的經驗，因此覺得台北市在半夜比較容易經歷到有感地震。
+
+<iframe frameborder="0" scrolling="no" height="600" width="800" src="/assets/taiwan-earthquake/taipei_intensity_vs_time.html"></iframe>
+
+從上面的圖表來看（台北 93 次）市有感地震共，雖然在台北市震度達到三甚至四的地震並不多，所以無法顯著地研判台北市是否在哪個時間點比較常感受到「強震」，不過震度1或2的有感地震，在一天中的任何時間都有發生過，以台北市最大震度加權後得到的平均地震發生時間是下午 1:04，因此不能說在台北市中午過後比較常有有感地震的感覺是錯的。
 
 ## 新北市比較常在半夜被震醒？
 
-<iframe frameborder="0" scrolling="no" height="300" width="600" src="/assets/taiwan-earthquake/ntc_intensity_vs_time.html"></iframe>
+我們也可以同樣的方法來研究幅員較台北市遼闊的新北市，是否也有類似的結論。
+
+<iframe frameborder="0" scrolling="no" height="600" width="800" src="/assets/taiwan-earthquake/ntc_intensity_vs_time.html"></iframe>
+
+在我們資料涵蓋到的 5 年間，新北市共有 126 次有感地震紀錄，其中有一次震度達到 5，三次達到 4。以新北市最大震度加權後得到的平均地震發生時間是下午 1:08，比台北市偏離均勻分布的平均更遠離 4 分鐘。
+
+## 結語
+
+就如同[「下雨後比較容易地震](https://zh.wikipedia.org/wiki/%E4%B8%8B%E9%9B%A8%E5%9C%B0%E9%9C%87%E8%AA%AA)說，從主觀感受（我覺得地震好像比較常在深夜發生），到以資料驗證感受是否與客觀證據相符（也就是本文做的事情），再到深入研討兩事併發，是否確實有因果關係，其實三者是可以完全分開來討論的。以本文為例，我主觀因為地震文比較常在深夜洗板，又或者因為我常常在深夜被地震震醒，因此猜想對一個住在台北的人來說，是不是強震比較有可能在深夜發生；而從我們蒐集到有限的資料來分析，即使把地震發生時間以地震規模或者震度加權後，平均時間依然非常接近中午，也就是貼近均勻分佈模型，因此初步可以結論我（或者一些網友）的感覺是錯的。然而一天是否真的在某個時間點特別容易發生地震，又或者是否有地球科學的理論可以支持這樣的關係（如果真的有的話），那就是值得好幾本博士論文去研究的課題了。
