@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "台鐵和台北捷運的統計數據符合 Benford's law 嗎？"
+title: "台灣的強震比較常在半夜發生嗎？"
 date: 2021-04-18 13:00
 comments: true
 categories: ["data science", "data viz", "taiwan", "weather", "earthquake", "Seismology"]
@@ -21,8 +21,8 @@ image: /assets/benford/taipei_metro_ridership_vs_benfords_law.png
 
 ## 台北市比較常在半夜被震醒？
 
-<iframe frameborder="0" scrolling="no" height="300" width="600" src="/assets/taipei_intensity_vs_time.html"></iframe>
+<iframe frameborder="0" scrolling="no" height="300" width="600" src="/assets/taiwan-earthquake/taipei_intensity_vs_time.html"></iframe>
 
 ## 新北市比較常在半夜被震醒？
 
-<iframe frameborder="0" scrolling="no" height="300" width="600" src="/assets/ntc_intensity_vs_time.html"></iframe>
+<iframe frameborder="0" scrolling="no" height="300" width="600" src="/assets/taiwan-earthquake/ntc_intensity_vs_time.html"></iframe>
