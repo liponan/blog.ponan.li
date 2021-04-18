@@ -4,7 +4,7 @@ title: "台灣的強震比較常在半夜發生嗎？"
 date: 2021-04-18 14:13
 comments: true
 categories: ["data science", "data viz", "taiwan", "weather", "earthquake", "Seismology"]
-image: /assets/benford/taipei_metro_ridership_vs_benfords_law.png
+image: /assets/taiwan-earthquake/thumbnail.png
 ---
 
 <link rel="stylesheet" href="/assets/css/iframe.css">
