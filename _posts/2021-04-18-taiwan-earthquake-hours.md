@@ -21,7 +21,7 @@ image: /assets/taiwan-earthquake/thumbnail.png
 
 首先我們在這裡已經假設各位讀者對「地震規模」以及「震度」這兩個概念熟悉。一次地震事件只會有一個「芮氏規模」，同樣一次地震事件，離震央中心距離不同的測站，會測到不同的「震度」。首先我們先不論所在的地區，純粹只整理這448次地震事件的規模。
 
-<iframe frameborder="0" scrolling="no" height="600" width="800" src="/assets/taiwan-earthquake/mag_vs_time.html"></iframe>
+<iframe frameborder="0" scrolling="no" height="300" width="400" src="/assets/taiwan-earthquake/mag_vs_time.html"></iframe>
 
 上面的圖表，角度是一天中的時間，離圓心越遠的資料點表示地震規模越大。資料點顏色同樣反映地震規模。直觀上看起來，規模大的地震在一天中任何時間都有可能會發生（或這說一天中任何時間都有機會觀測到規模大的地震）。如果我們想要比較「量化」這個圖表所表示的意義，我們可以計算以芮氏規模加權的「平均地震發生時間」，據此推算是否一天之中有哪一個時間點，比較有可能會發生強震？計算結果是早上 11:48 ，非常接近中午，也就是說作為一個時間的函數，強震的發生機率可以說是一個連續均勻分布。
 
@@ -29,7 +29,7 @@ image: /assets/taiwan-earthquake/thumbnail.png
 
 從另一個觀點來看，假設我是一個台北市的居民，我常常有半夜被地震震醒起來發地震文的經驗，因此覺得台北市在半夜比較容易經歷到有感地震。
 
-<iframe frameborder="0" scrolling="no" height="600" width="800" src="/assets/taiwan-earthquake/taipei_intensity_vs_time.html"></iframe>
+<iframe frameborder="0" scrolling="no" height="300" width="400" src="/assets/taiwan-earthquake/taipei_intensity_vs_time.html"></iframe>
 
 上面圖表同樣角度表示一天中的時間，但離圓心的距離則表示台北市測量到的最大震度，顏色表示該地震的芮氏規模。從圖表來看（台北市，共 93 次有感地震），雖然在台北市震度達到三甚至四的地震並不多，所以無法顯著地研判台北市是否在哪個時間點比較常感受到「強震」，不過震度1或2的有感地震，在一天中的任何時間都有發生過，以台北市最大震度加權後得到的平均地震發生時間是下午 1:04，因此不能說在台北市中午過後比較常有有感地震的感覺是錯的。
 
@@ -37,7 +37,7 @@ image: /assets/taiwan-earthquake/thumbnail.png
 
 我們也可以同樣的方法來研究幅員較台北市遼闊的新北市，是否也有類似的結論。
 
-<iframe frameborder="0" scrolling="no" height="600" width="800" src="/assets/taiwan-earthquake/ntc_intensity_vs_time.html"></iframe>
+<iframe frameborder="0" scrolling="no" height="300" width="400" src="/assets/taiwan-earthquake/ntc_intensity_vs_time.html"></iframe>
 
 在我們資料涵蓋到的 5 年間，新北市共有 126 次有感地震紀錄，其中有一次震度達到 5，三次達到 4。以新北市最大震度加權後得到的平均地震發生時間是下午 1:08，比台北市偏離均勻分布的平均更遠離 4 分鐘。
 
