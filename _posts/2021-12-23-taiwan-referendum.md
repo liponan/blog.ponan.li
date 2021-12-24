@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "台灣的強震比較常在半夜發生嗎？"
+title: "經濟選民比較反萊豬？核四與三接我全都要？"
 date: 2021-12-23 22:00
 comments: true
 categories: ["data science", "data viz", "taiwan", "politics", "referendum", "potical science"]
@@ -24,7 +24,7 @@ image: /assets/taiwan-2021-rederendum/thumbnail.png
 橫軸部分，每年年中財政部都會公佈兩個月曆年前的綜合所得稅統計資料，也常被新聞媒體及資料科學愛好者作為各區貧富情形的研究對象。雖然在本文撰寫時財政部已經公布民國 108 年（即 2019 年）的資料，但因為僅有 ~~該死的~~ EXCEL 格式，尚未發表符合政府開放資料規範的 CSV 檔，所以這裡就先使用 107 年（即 2018 年）資料。對於 108 年資料與 107 年資料的主要差異有興趣的讀者，可以閱讀[這篇文章](https://www.storm.mg/lifestyle/3817112)。
 
 
-<iframe frameborder="0" scrolling="no" height="300" width="400" src="/assets/taiwan-2021-referendum/18.html"></iframe>
+<iframe frameborder="0" scrolling="no" height="500" width="1000" src="/assets/taiwan-2021-referendum/18.html"></iframe>
 
 [開新視窗顯示](/assets/taiwan-2021-referendum/18.html)
 橫軸：所得稅中位數（千元）
@@ -38,10 +38,21 @@ image: /assets/taiwan-2021-rederendum/thumbnail.png
 
 ## 支持核四商轉跟三接互斥嗎？
 
-<iframe frameborder="0" scrolling="no" height="300" width="400" src="/assets/taiwan-2021-referendum/17_vs_20.html"></iframe>
+除了萊豬之外，另一個也同樣與經濟息息相關的戰場就是台灣的電力規劃。核四與三接本質上都是對於電力的供應都是加分的，但是支持核四與支持三接卻分別被兩個在光譜兩端的陣營擁抱。此外第 17 案（核四商轉）與第 20 案（珍愛藻礁）這兩案也各自具有非常強烈的地緣因素。除了新北與桃園之外，其他縣市選民（如三接的替代方案，或蘭嶼）也有可能有各自的考量。
+這裡我們參考[葉高華老師](https://www.facebook.com/kohua)的作法，以最沒有地緣因素的第 19 案（公投綁大選）作為參考基準。在下面的互動圖表上，除了顏色之外，也可以以滑鼠移到各個資料點查詢各行政區在第 17、20 與 19 案投出來的差別。
+
+<iframe frameborder="0" scrolling="no" height="500" width="1000" src="/assets/taiwan-2021-referendum/17_vs_20.html"></iframe>
 
 [開新視窗顯示](/assets/taiwan-2021-referendum/17_vs_20.html)
 橫軸：「核四商轉」同意票除以投票權數
 縱軸：「珍愛藻礁」同意票除以投票權數
 資料點大小：與投票權人數成正比
 資料點顏色：「公投綁大選」同意票除以投票權數
+
+雖然很不想承認，不過在前一張圖中我們已經看到，本次公投大致還是兩個陣營的選民各自歸隊投票，所以在這張圖表我們看到幾乎是 $$x=y$$ 的分布也就一點都不意外了。
+唯一值得一提的是有兩個資料點明顯離群，而且都是支持藻礁大於支持核四商轉，分別是..... 新北貢寮與台東蘭嶼。所以各位鍵盤分析師真的不要急著酸蘭嶼，其實他們支持核四商轉的同意比率比作為中性參考的第 19 案低了 1.65% 。
+
+## 結語
+
+做出這兩張圖表其實只是要證明我的猜想是錯的。不過也蠻遺憾看到在藍綠陣營各自的喊話下，走出門（或者千辛萬苦返鄉）的選民還是大致上投出了與政治版圖類似的結果。
+我們下次再見囉！
