@@ -24,7 +24,7 @@ image: /assets/taiwan-2021-rederendum/thumbnail.png
 橫軸部分，每年年中財政部都會公佈兩個月曆年前的綜合所得稅統計資料，也常被新聞媒體及資料科學愛好者作為各區貧富情形的研究對象。雖然在本文撰寫時財政部已經公布民國 108 年（即 2019 年）的資料，但因為僅有 ~~該死的~~ EXCEL 格式，尚未發表符合政府開放資料規範的 CSV 檔，所以這裡就先使用 107 年（即 2018 年）資料。對於 108 年資料與 107 年資料的主要差異有興趣的讀者，可以閱讀[這篇文章](https://www.storm.mg/lifestyle/3817112)。
 
 
-<iframe frameborder="0" scrolling="no" height="500" width="1000" src="/assets/taiwan-2021-referendum/18.html"></iframe>
+<iframe frameborder="0" scrolling="no" height="500" width="800" src="/assets/taiwan-2021-referendum/18.html"></iframe>
 
 - [開新視窗顯示](/assets/taiwan-2021-referendum/18.html)
 - 橫軸：所得稅中位數（千元）
@@ -41,7 +41,7 @@ image: /assets/taiwan-2021-rederendum/thumbnail.png
 除了萊豬之外，另一個也同樣與經濟息息相關的戰場就是台灣的電力規劃。核四與三接本質上都是對於電力的供應都是加分的，但是支持核四與支持三接卻分別被兩個在光譜兩端的陣營擁抱。此外第 17 案（核四商轉）與第 20 案（珍愛藻礁）這兩案也各自具有非常強烈的地緣因素。除了新北與桃園之外，其他縣市選民（如三接的替代方案，或蘭嶼）也有可能有各自的考量。
 這裡我們參考[葉高華老師](https://www.facebook.com/kohua)的作法，以最沒有地緣因素的第 19 案（公投綁大選）作為參考基準。在下面的互動圖表上，除了顏色之外，也可以以滑鼠移到各個資料點查詢各行政區在第 17、20 與 19 案投出來的差別。
 
-<iframe frameborder="0" scrolling="no" height="500" width="1000" src="/assets/taiwan-2021-referendum/17_vs_20.html"></iframe>
+<iframe frameborder="0" scrolling="no" height="500" width="800" src="/assets/taiwan-2021-referendum/17_vs_20.html"></iframe>
 
 - [開新視窗顯示](/assets/taiwan-2021-referendum/17_vs_20.html)
 - 橫軸：「核四商轉」同意票除以投票權數
