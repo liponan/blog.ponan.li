@@ -27,6 +27,10 @@ image: /assets/wordle/wordle_entropy.png
 
 這邊又要回到 [3b1b](https://www.youtube.com/watch?v=v68zYyaEmEA) 的影片，他利用前面討論的觀念，得到了 TARES 這個字可以在第一步得到最多資訊的結論。TARES 這個字的平均資訊量是 6.19 bits，粗略地來說就是無論今天的謎底是什麼，平均來說我們可以把候選字縮小到 1/73 的範圍。無獨有偶，3b1b 也用了我前一篇文章推薦的 SLATE 作為對照，SLATE 的平均資訊量是 5.87 bits，大約可以把候選字限縮到 1/58.5 的範圍。
 
+![Wordle Cheat Sheet](/assets/wordle/bits_tares.png)
+
+（使用 TARES 後可能得到的資訊量，限縮範圍越大的輸出結果資訊量越大，但是相對的發生的機率也越低）
+
 所以 Eric 的問題可以理解為：假設我們的開局策略是用固定的兩個字當作前兩猜，那這樣可以得到多大的資訊量？他也問了，這兩個字會跟 TARES 或者其他高分字很類似嗎？
 
 我先說結論：最高分的一組字是 **DARNS** 和 **TOILE**，他們組合起來的分數是 10.26 bits，也就是可以把候選字縮小到 1/1228 的範圍！如果這樣聽起來還不夠厲害，換句話說，平均來說使用了這組字之後，你會把候選字限縮到從 10.5 個字中去選。
@@ -42,3 +46,19 @@ image: /assets/wordle/wordle_entropy.png
 ![Wordle Cheat Sheet](/assets/wordle/1step_vs_2step.png)
 
 固定兩步開局的策略是設計給人類玩家用的，一但開局完成後，就可以用自己喜歡的玩法玩下去，具體的成效可能很難量化。不過大家可能會多或少都有遇過最後子音鬼打牆的狀況（例如 PILL/WILL/BILL/DILL/FILL/HILL/JILL/KILL），其實運用訊息理論的精神之一就是可以在早期避免大家走進這樣的死胡同。
+
+以下是前幾高分的開局字組合及對應的 entropy
+
+| DARNS | TOILE | 10.262 |
+| DAINT | LORES | 10.255 |
+| PAREN | TOILS | 10.248 |
+| LOINS | TARED | 10.246 |
+| LARIS | TONED | 10.242 |
+
+以下是根據 3b1b 原本的算法 前幾高分的字及其 entropy
+
+| TARES | 6.196 |
+| LARES | 6.151 |
+| RALES | 6.116 |
+| RATES | 6.098 |
+| TERAS | 6.078 |
