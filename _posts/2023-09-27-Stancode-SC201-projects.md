@@ -18,6 +18,7 @@ image: /assets/wordle/wordle_entropy.png
 2023/09/24 **Second Place (2/6)**
 
 > 『感謝Mentor南哥像是poster的引水人，給予足夠的自我探索空間、又適時的提出引導，讓我們沒有在code中迷航』
+
 - [學員心得1](https://www.facebook.com/permalink.php?story_fbid=pfbid0rBo7tdi65G4CniBHXyWVU4GtL9geitH4m3hqZhHX4ksg11YmyznAQBuH84DWsLXvl&id=100000153511616&__cft__[0]=AZU8JOAoeMQFQOhTHzlj9EurXqTb0mvFVOSnz_4zywHcmc6x3OeqITtA9UzfVOQok-lARAHZS1a-6bS0kemnKL0cRwPXqJ_cuQ_mjJKcVs_ytRFkHGGpfMlI-8u4M0KJL-xwLgrAo5aw4wn29X04hMutZl3pxD0t3tAROFCHdpNC30-08jXvgtChpmnoYJu4tOA&__tn__=%2CO%2CP-R)
 - [學員心得2](https://www.facebook.com/permalink.php?story_fbid=pfbid021nDmqzSiHCYz3veXfBpdbtXQv2DMaumKvam55f64o2JnEL8WRGicamUFHWGTJ8kRl&id=100002595715348&__cft__[0]=AZVKIQwgmCLS-NgMMux2BaodXAIlf36r0DgJr1-xYOHel2_aYMDWzO72KX4q5As4RQFn-QCnwdgvI4spcq6u4dVXfBLqerMxPvKuIgRmO5KwaDDKMg2l8lwnGB5_TDQRZMXn_KStXgWa43IuUlYlhEZUbPkaHr5BFCcxZdSPGYBh3Z-5i5zHntsMXxMWNWDloLQ&__tn__=%2CO%2CP-R)
 - [學員心得3](https://www.facebook.com/permalink.php?story_fbid=pfbid0rWMvy61mtxafTrZMTxZGjEL39M2pvvNWG96JtNtK7y6vuzDKHacou7QpS57EQAWVl&id=100001960224267&__cft__[0]=AZU4fLst0jIhMfVsIiSza8HiehnPQeflfEQ0rnAHtlKG8rhQ7gaHT_GQGOL-6yv7JRW7e_mBAGf_snqsQQQldoCimEpEXbIPT-EZuf2_7NMa1hdpH3PuVmaAt5aDKU7DtwMFIsHHrVhwnt9oelqpZMiGRSJ9cFKzRLTyozo3p7KMeYc_QvEepNiSj1nFaFOonwg&__tn__=%2CO%2CP-R)
