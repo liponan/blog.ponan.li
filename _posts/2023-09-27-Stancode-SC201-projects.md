@@ -10,7 +10,7 @@ image: /assets/wordle/wordle_entropy.png
 
 作者：李柏南 Po-Nan Li
 
-感謝 [stanCode](http://stancode.tw) 創辦人、Stanford 學弟 Jerry 的邀請，讓我從 2021 起多次有機會與 stanCode 的學員共事，一起完成多項有趣的期末專題研究。除了我自己擅長的電腦視覺（Computer Vision）之外，我也和學員們一起挑戰過一些我自己舒適圈之外的題目，如 Diffusion、影片分析、自然語言處理等等，有的題目用簡單的 MLP 就有很好的效果，有的題目用到了我自己最喜歡的 LSTM，不過最大宗的問題還是用 CNN 來處理。我非常支持 stanCode 將程式碼與成果發表影片公開以昭公信的理念，除了讓有興趣的大眾可以一窺一個 AI 專題的幕後花絮之外，也意味著這些研究經得起檢視，也歡迎大家重製與驗證。
+感謝 [stanCode](http://stancode.tw) 創辦人、Stanford 學弟 Jerry 的邀請，讓我從 2021 起多次有機會與 stanCode 的學員共事，一起完成多項有趣的期末專題研究。除了我自己擅長的電腦視覺（Computer Vision）之外，我也和學員們一起挑戰過一些我自己舒適圈之外的題目，如 Diffusion、影片分析、自然語言處理等等，有的題目用簡單的 MLP 就有很好的效果，有的題目用到了我自己最喜歡的 LSTM，不過最大宗的問題還是用 CNN 來處理。我非常支持 stanCode 將程式碼與成果發表影片公開以昭公信的理念，除了讓有興趣的大眾可以一窺一個 AI 專題的從無到有的幕後花絮之外，也意味著這些研究經得起檢視，也歡迎大家重製與驗證。
 
 以下歷屆題目彙整，依發表時間反序排列。
 
@@ -34,7 +34,7 @@ image: /assets/wordle/wordle_entropy.png
 ## 第七屆 AI Got Green Fingers
 2022/09/03 **Best Poster (1/4)**
 
-> 『謝謝萬能的 mentor 兼 scrum master Po-Nan Li，指導的範圍從模型建置、專案管理、報告邏輯到簡報技巧無所不包，過程中遇到的各種大小問題，都能夠得到很好的解答或指引，即使因為時差關係在他睡覺期間產生的幾百條討論訊息，他都會一一閱讀並且回覆。』*
+> 『謝謝萬能的 mentor 兼 scrum master Po-Nan Li，指導的範圍從模型建置、專案管理、報告邏輯到簡報技巧無所不包，過程中遇到的各種大小問題，都能夠得到很好的解答或指引，即使因為時差關係在他睡覺期間產生的幾百條討論訊息，他都會一一閱讀並且回覆。』
 
 - [成果發表](https://youtu.be/rz4oRvQK7O4?si=WPEP0gFErusAemGG)
 - [學員心得](https://www.facebook.com/harker1987/posts/pfbid02UYKFhYNp7D1bNRpitnSfLmopEcnFpFXxC9GsqetNrVqpzMYE3YAN4nRxSwVqNWp8l?__cft__[0]=AZXE3IXXfX4ExfUpVhrRK_hd6g9eiwsyQ7QTDRvCy4B37rA_4ifiz42ZWyJXo4IyXT7t1Q6ur1y_Ipkec0OTEXzyjSE5WKzjCEmuXfp2DIzBxhd6TzEm00AnzDcDR3aOSf04CN4UHpThgYAvvLQkV-XaCJzfEiGRFEyRK33o_1LxY8ZEyyRCM7RgUW3Iztpoj_o&__tn__=%2CO%2CP-R)
