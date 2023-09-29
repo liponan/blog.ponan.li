@@ -4,7 +4,7 @@ title: "stanCode SC201 專題指導紀錄"
 date: 2023-09-27 23:00
 comments: true
 categories: ["machine learning", "AI"]
-image: /assets/wordle/wordle_entropy.png
+image: /assets/sc201_2022.jpg
 ---
 
 
