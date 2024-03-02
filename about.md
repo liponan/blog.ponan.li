@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hello, Po-Nan here. Thank you for visiting my blog! I realized that most posts in my blog are written in Mandarin, so this page has been intentionally composed in English.
+Hello, Po-Nan here. Thank you for visiting my blog! I realized that most posts in my blog are primarily written in Mandarin, so this page has been intentionally composed in English.
 
 Besides here, you might also want to check out my
 
@@ -14,13 +14,13 @@ Besides here, you might also want to check out my
 
 ## About Po-Nan Li
 
-Born and raised in Taiwan, Po-Nan (colloquially as Ponan) is currently a PhD candidate in Electrical Engineering at Stanford University. He specializes Python, C/C++ and Matlab programming for scientific computation and computational imaging. His research interests include X-ray and computational imaging, biological computation and machine learning. During 2019 summer, he interned at [Google Daydream](https://arvr.google.com/daydream/ "Google Daydream"), where he developed a camera calibration instrument for AR devices.
+Born and raised in Taiwan, Po-Nan (colloquially as Ponan) is a machine learning engineer at Apple. He specializes Python, C/C++ and Matlab programming for scientific computation and computational imaging. Prior to joining Apple, he received his PhD degree in electrical engineering from Stanford University, where His research interests lied in X-ray and computational imaging, biological computation and machine learning. During 2019 summer, he interned at [Google Daydream](https://arvr.google.com/daydream/ "Google Daydream"), where he developed camera calibration instrumentmentation for AR devices. During 2020 fall, he interned at [Facebook Reality Labs](https://about.meta.com/realitylabs/) (now Meta Reality Labs), where he used machine learning to accelerate the waveguide design for AR wearables. 
 
 During 2016-2017, Po-Nan served as the Vice President of Stanford Taiwanese Student Association [(STSA)](https://web.stanford.edu/group/stsa/ "Stanford Taiwanese Student Association (STSA)"). Prior to joining Stanford, he has earned his bachelor's and master's degrees from National Tsing Hua University [(NTHU)](http://nthu-en.web.nthu.edu.tw/bin/home.php "National Tsing Hua University"), Taiwan.
 
 ## 關於作者
 
-本站由[李柏南](https://www.ponan.li/ "ponan.li")編輯製作。現居美國加州，美國史丹佛大學博士候選人。[灣區哲學星期五](https://phil5-bay.github.io/ "灣區哲五")共同發起人、冷知識網站[每日一冷](https://dailycold.tw/ "https://dailycold.tw/")編輯暨網站工程師。資料視覺化網站[台灣公民投票 2018](https://rfrd-tw.github.io/ "台灣公民投票2018")共同製作人。
+本站由[李柏南](https://www.ponan.li/ "ponan.li")編輯製作。現居美國加州，美國史丹佛大學電機博士。[灣區哲學星期五](https://phil5-bay.github.io/ "灣區哲五")共同發起人、冷知識網站[每日一冷](https://dailycold.tw/ "https://dailycold.tw/")編輯暨網站工程師。資料視覺化網站[台灣公民投票 2018](https://rfrd-tw.github.io/ "台灣公民投票2018")共同製作人。
 
 ## Projects
 
