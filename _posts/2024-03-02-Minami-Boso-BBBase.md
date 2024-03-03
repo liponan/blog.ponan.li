@@ -9,9 +9,9 @@ categories: [Japan, Chiba, JR, Cycling, Boso]
 
 看過飆速宅男的人一定都知道主人翁們所就讀的總北高中是千葉縣的代表，而雖然總北高中顯然是虛構的，但是總北的「總」所代表的房總半島，不但是緊鄰著東京都的千葉縣最主要的地理區域，也是知名的單車旅行聖地。為了推動房總半島的自行車旅行，JR East 在 2018 年推出了主打不用拆車就能上車的 B.B.Base，每週末早上從東京都內的兩國站出發直達房總半島的騎車熱門地點，在傍晚再把車友們載回東京。
  
-結束了四天三夜在<a href="https://www.mobile01.com/topicdetail.php?f=320&t=6910750" target="_blank" rel="noopener">茨城縣的筑波鈴鈴路與霞之浦之旅</a>後，我便把<a href="https://www.mobile01.com/topicdetail.php?f=316&t=6908162" target="_blank" rel="noopener">心愛的 Canyon Aeroad</a> 裝回攜車箱搭 JR 進到東京市區，準備搭週六出發的 B.B.Base 移師房總半島繼續日本騎車之旅。
+結束了四天三夜在<a href="https://blog.ponan.li/post/2024/03/02/Tsukuba-Kasumigaura/" target="_blank" rel="noopener">茨城縣的筑波鈴鈴路與霞之浦之旅</a>後，我便把<a href="https://www.mobile01.com/topicdetail.php?f=316&t=6908162" target="_blank" rel="noopener">心愛的 Canyon Aeroad</a> 裝回攜車箱搭 JR 進到東京市區，準備搭週六出發的 B.B.Base 移師房總半島繼續日本騎車之旅。
  
-全名為 Boso Bicycle Base 的 B.B.Base 固定在週末或者連續假期由兩國站出發開往千葉縣的房總半島，但目的地以及行經路線則每天都不太一樣，會事先公布在<a href="https://www.jreast.co.jp/multi/zh-CHT/joyful/bbbase.html" target="_blank" rel="noopener">官方網站</a>的行駛月曆上。如下圖所示，大家平常遊玩東京都的時候應該就已經覺得東京有夠大的，但是跟東京都比起來，在東邊的房總半島硬是又更大上了一點。以海岸線而言，大致可分為面向西邊東京灣的內房以及面向東邊太平洋的外房，而 B.B.Base 除了內房與外房之外，尚有佐倉·銚子及佐原・鹿島兩條北邊的路線，甚至還可以直接往北騎去茨城和<a href="https://www.mobile01.com/topicdetail.php?f=320&t=6910750" target="_blank">霞之浦</a>呢。
+全名為 Boso Bicycle Base 的 B.B.Base 固定在週末或者連續假期由兩國站出發開往千葉縣的房總半島，但目的地以及行經路線則每天都不太一樣，會事先公布在<a href="https://www.jreast.co.jp/multi/zh-CHT/joyful/bbbase.html" target="_blank" rel="noopener">官方網站</a>的行駛月曆上。如下圖所示，大家平常遊玩東京都的時候應該就已經覺得東京有夠大的，但是跟東京都比起來，在東邊的房總半島硬是又更大上了一點。以海岸線而言，大致可分為面向西邊東京灣的內房以及面向東邊太平洋的外房，而 B.B.Base 除了內房與外房之外，尚有佐倉·銚子及佐原・鹿島兩條北邊的路線，甚至還可以直接往北騎去茨城和<a href="https://blog.ponan.li/post/2024/03/02/Tsukuba-Kasumigaura/" target="_blank">霞之浦</a>呢。
  
 <img width="969" alt="Screenshot 2024-02-02 at 10 24 06 PM" src="https://github.com/liponan/blog.ponan.li/assets/663444/3ca7550a-2710-4103-bc88-66dc494feb2e">
 <center>B.B.Base 的常態路線主要有內房、外房、佐倉·銚子及佐原・鹿島四種路線（<a href="https://www.jreast.co.jp/multi/zh-CHT/joyful/bbbase.html" target="_blank">出處</a>）</center> 
