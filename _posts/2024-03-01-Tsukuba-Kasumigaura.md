@@ -10,14 +10,16 @@ categories: [Japan, Tsukuba, Ibaraki, Cycling, Kasumigaura]
 日本國土交通省在幾年前公佈了六條獲國家認證的<a href="https://www.mlit.go.jp/road/bicycleuse/good-cycle-japan/national_cycle_route/english.html" target="_blank" rel="noopener">國家級自行車道</a>，其中除了車友一定都耳熟能詳的琵琶湖和<a href="https://www.mobile01.com/topicdetail.php?f=320&t=5928305" target="_blank" rel="noopener">島波海道</a>外，還有包含這次要介紹的<b>筑波霞之浦鈴鈴路</b>在內的共六條路線，除去跨越瀨戶內海的島波海道外，有四條分布在本州四處，一條位在北海道。
  
  
-<img src="https://attach.mobile01.com/attach/202401/mobile01-ab7c4ae55c17cb1271586540fde6d68c.png" />
+![日本六條國家自行車道地圖](https://github.com/liponan/blog.ponan.li/assets/663444/98920b66-cb21-4c20-864d-5d831a3c78bc)
+
 <center>日本六條國家自行車道地圖（<a href="https://www.mlit.go.jp/road/bicycleuse/good-cycle-japan/national_cycle_route/english.html" target="_blank" rel="noopener">出處</a>）</center> 
  
 雖然最想去的絕對是島波海道和琵琶湖，但是因為住在美國西岸的關係，還是以從能直飛的東京出發容易到達的關東地區優先規劃。雖然也很想去<a href="https://anime-longriders.com/map/" target="_blank" rel="noopener">長騎美眉</a>去騎的境川和鎌倉，但是因為想要在同一次旅行也安排<a href="https://www.mobile01.com/topicdetail.php?f=320&t=5477695" target="_blank" rel="noopener">日光</a>的關係，最後就選定這個名字看起非常古怪，而且還位在多年獲選日本最有魅力都道府縣最後一名的茨城的つくば霞ケ浦りんりんロード。
 <h1>筑波霞之浦鈴鈴路路網</h1>雖然事前做了很多功課，也研究了很多前輩的心得分享，卻越看越疑惑：這些人去騎的真的是同一個地方嗎？最後看了<a href="https://www.ringringroad.com/english/course/" target="_blank" rel="noopener">官網的路線圖</a>之後總算豁然開朗：這就像是瞎子摸象的故事一樣，其實大家分享的是不同的路段。
  
  
-<img src="https://attach.mobile01.com/attach/202401/mobile01-3db4e1a4d3b0648bd3de92a7de45d071.png" />
+![筑波霞之浦鈴鈴路路網圖](https://github.com/liponan/blog.ponan.li/assets/663444/433af589-2075-41e3-8390-77ff0e550dc1)
+
 <center>筑波霞之浦鈴鈴路路網圖（<a href="https://www.mlit.go.jp/road/bicycleuse/good-cycle-japan/national_cycle_route/tsukuba_en.html" target="_blank" rel="noopener">出處</a>）</center> 
  
 簡單來說，整個筑波霞之浦鈴鈴路以土浦市為中心，分成兩個系統：往內陸方向的折返路線「筑波山」路線，以及環繞日本第二大水體的「霞之浦」環湖路線。有了這個概念之後，兩個系統分別還可以做這樣的變化：筑波山路線除了原路折返外，中間經過筑波山的一段可以選擇山路繞道；而霞之浦雖然像日月潭一樣是一個大水體，但是因為比較窄的一段有霞之浦大橋可以切西瓜的關係，便產生了三種組合：完整版的 130 公里環潭路線，中間切西瓜的 90 公里「迷你」路線（這是官方的名稱），或者只騎兩者相減部分的北浦路線。最重要的是，無論是筑波山往返路線，或者是環潭路線，都是全程平路，連一丁點有感的上坡路都沒有！
@@ -30,40 +32,51 @@ categories: [Japan, Tsukuba, Ibaraki, Cycling, Kasumigaura]
 <h1>第一天：土浦</h1>下午三點抵達成田機場後，很順利搭上四點半由機場發車經由筑波市直達土浦車站的客運，車程約 90 分鐘。巴士下有行李空間，就算是大型攜車箱如 Topeak Pakgo 也完全沒問題（不過月台工作人員會請你簽一個簡單的脆弱物品同意書）。
  
 <img src="https://attach.mobile01.com/attach/202401/mobile01-e1c59b6e5782c04eeb3ab675b21391b1.png" />
+
 <center>土浦以蓮藕聞名</center> 
  
 這次四天三夜下榻的星野集團 BEB5 土浦不但是完全以自行車為主題打造的飯店，還完全共構於 JR 土浦車站之內。如果搭機場客運抵達的話，要從東口搭電梯走車站的自由通道到站體所在的西邊。
  
 <img src="https://attach.mobile01.com/attach/202401/mobile01-7e283271432237579b09acef11cde2d7.jpg" />
+
 <center>BEB5 的路口就在土浦車站通道的明顯處，就算是再路痴的人都不會錯過</center> 
  
 <img src="https://attach.mobile01.com/attach/202401/mobile01-a4dab2caa907f973c1cb707344f9e942.jpg" />
+
 <center>星野土浦 BEB5 是一家完全以腳踏車為概念的旅店</center> 
  
 <img src="https://attach.mobile01.com/attach/202401/mobile01-9d62ee511809e53b425e2d3f879c3668.jpg" />
+
 <center>寬敞的交誼空間，以及 YouTuber 來訪一定會介紹的腳踏車人力果汁機</center> 
  
 <img src="https://attach.mobile01.com/attach/202401/mobile01-cf63269e281dad56c214f65cbe0abce8.jpg" />
+
 <center>一目瞭然的筑波山與霞之浦路網圖</center> 
  
 <img src="https://attach.mobile01.com/attach/202401/mobile01-20a305195ad60159b521a1946383ce5b.jpg" />
+
 <center>從房門往房間深處看，左邊的牆上可以掛兩台公路車</center> 
  
 <img src="https://attach.mobile01.com/attach/202401/mobile01-41be61cdea24eb69175d3ead9e9772ce.jpg" />
+
 <center>連棉被也有腳踏車的點綴</center> 
  
 <img src="https://attach.mobile01.com/attach/202401/mobile01-14f138a838f66e430f0af8aa8abfc980.jpg" />
+
 <center>房間最內處舒服的沙發，最適合騎完一天的車之後在這邊耍廢</center> 
  
 這次入住選的是可以與愛車同住的房型，所以房間位在與車站通道同樓層的三樓。不同於一般旅館，因為這裡是完全以自行車騎士為出發點設計的住宿，所以直接牽著愛車進出當然完全沒問題啦！安頓好，稍微休息後，便走出房間準備到同樣與車站共構的商場逛逛順便覓食啦！
  
 <img src="https://attach.mobile01.com/attach/202401/mobile01-80acd793031cfad9fa44a57e2fc57aba.jpg" />
+
 <center>雖然外面冷颼颼，從飯店房間走到同樣在車站共構商場的沾麵只要一分鐘，還不用吹冷風</center> 
  
 <img src="https://attach.mobile01.com/attach/202401/mobile01-d4473ff0664777dc7a3ae5d1e97fbe8d.jpg" />
+
 <center>喜歡 Bianchi 的車迷逛到車站共構一樓的車店應該會失心瘋</center> 
  
 <img src="https://attach.mobile01.com/attach/202401/mobile01-f12ae8c9b54245ab11137ffceee7d396.jpg" />
+
 <center>本店限定的特仕版</center> 
  
 吃完飯後，回到 BEB5 繼續參觀四樓（比飯店入口高一樓）的公共空間：
@@ -211,8 +224,10 @@ categories: [Japan, Tsukuba, Ibaraki, Cycling, Kasumigaura]
  
 <h1>第四天：袋田瀑布</h1>本來第四天的預定行程是輪行到水戶站，再騎車騎進以花海知名的國營常陸海濱公園，再接著騎到海邊走一些搭公車反而很麻煩的景點，不過因為因為一些臨時的變故，在茨城的最後一天改成到去日本三大名瀑之一的袋田瀑布。雖然同樣在茨城，但是其實一路舟車勞頓，搭兩段火車後還要再轉公車，一整天下來就只有跑這個行程而已，等到再回到土浦的 BEB5 拿行李和腳踏車時天都已經黑了。不過 check-out 後把腳踏車寄放在 BEB5 是完全沒問題的，只是就跟日本大部分的旅館一樣，都是不能寄放過夜的。
  
-<img src="https://attach.mobile01.com/attach/202401/mobile01-6ebedd750d8556297e95ddd455e38e84.jpg" />
-<center>日本三大名瀑之一的袋田瀑布</center> 
 
+![日本三大名瀑之一的袋田瀑布](https://github.com/liponan/blog.ponan.li/assets/663444/fff42c71-eb52-4e55-b3b7-e83e6b3f4010)
+
+<center>日本三大名瀑之一的袋田瀑布</center> 
  
-本文曾刊登於[Mobile01 自行車遊記版](https://www.mobile01.com/topicdetail.php?f=320&t=6910750)
+- 本文曾刊登於[Mobile01 自行車遊記版](https://www.mobile01.com/topicdetail.php?f=320&t=6910750)
+- 續集：[日本千葉縣 B.B.Base 雙鐵列車與南房總半島](https://blog.ponan.li/post/2024/03/02/Minami-Boso-BBBase/)
