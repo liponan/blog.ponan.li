@@ -4,6 +4,7 @@ title: "富士急富士山景觀特急"
 date: 2014-03-05 22:00
 comments: true
 categories: [JR-pass, japan, Fuji, tokyo]
+image: /assets/fujisanview.JPG
 ---
 
 去年（2023）二月的 MLK 連假我們開車到 Yosemite 山腳下的 Autocamp，因為雪鍊管制的關係進不去園區（我有雪鍊但是不想在路況不佳的地方開車），山腳下也下著下不停的大雨，所以我們兩個就躲在 Airstream 裡面看書、發呆。本來在床上快要睡著了，老婆突然叫我看她手中正在看的影片，「是關於火車的」她說。這還真是稀奇，我其實不曉得她對火車有興趣。不看還好，一看驚為天人，這火車上不但可以吃甜點，還會正對著富士山前進！
