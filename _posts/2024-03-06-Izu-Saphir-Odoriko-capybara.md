@@ -4,7 +4,7 @@ title: "水豚、河津櫻、伊豆藍寶石踴子"
 date: 2024-03-06 22:41
 comments: true
 categories: [JR-pass, japan, izu, tokyo, capybara]
-image: /assets/izu_capybara.JPG
+image: /assets/izu_capybara.jpg
 ---
 
 接續昨天的[富士山行程](https://blog.ponan.li/post/2024/03/05/Fujisan-View-Express/)，我們把[東京廣域周遊券](https://www.jreast.co.jp/multi/pass/tokyowidepass.html)三天效期的第二天用在 JR 東日本於疫情間（2020年3月）全新推出的 [Saphir Odorio](https://www.jreast.co.jp/saphir/)。對日本火車不陌生甚至或者有在玩電車でGO!的人可能都不會對 Odoriko 太陌生，甚至可以把它當作伊豆半島的代名詞，不過全新的 Saphir Odoriko 則更上一層樓，採用全列車綠色車廂的設定，標榜大人的伊豆之旅。
